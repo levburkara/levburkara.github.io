@@ -1,86 +1,53 @@
-- name: Zhenguo Nie
-  photo: zhenguonie.jpg
-  info: Post-doc, started Spring 2018
-  email: zhenguon@andrew.cmu.edu
-  number_educ: 4
-  education1: Post-doc Georgia Tech
-  education2: Ph.D. Tsinghua University
-  education3: M.S. Tsinghua University 
-  education4: B.S. Shandong University
+- name: Kevin Ferguson
+  photo: kevinferguson.jpg
+  info: Ph.D. candidate, started Fall 2020
+  email: kferguso@andrew.cmu.edu
+  number_educ: 1
+  education1: B.S. Rose-Hulman Institute of Technology
 
-- name: Ye Han
-  photo: yehan.jpg
-  info: Ph.D. candidate, started Fall 2015
-  email: yehan@andrew.cmu.edu
+- name: Daniel Emerson
+  photo: danielemerson.jpg
+  info: Ph.D. candidate, started Fall 2020
+  email: danielem@andrew.cmu.edu
+  number_educ: 1
+  education1: B.S. University of Massachusetts Amherst
+
+- name: Haolin Liu
+  photo: haolinliu.jpg
+  info: Ph.D. candidate, started Spring 2021
+  email: hlinliu1996@gmail.com
   number_educ: 2
   education1: M.S. Carnegie Mellon University
-  education2: B.S. Dalian University of Technology 
+  education2: B.S. Beihang University
 
-- name: <a href="https://teddyz829.github.io">Wentai Zhang</a>
-  photo: wentaizhang.jpg
-  info: Ph.D. candidate, started Fall 2017
-  email: wentaiz@andrew.cmu.edu
+- name: Hongrui (Ray) Chen
+  photo: hongruichen.jpg
+  info: Ph.D. candidate, started Fall 2021
+  email: hongruic@andrew.cmu.edu
+  number_educ: 1
+  education1: B.S. University of Wisconsin-Madison
+
+- name: Aditya Joglekar
+  photo: adityajoglekar.jpg
+  info: Ph.D. candidate, started Spring 2024
+  email: aajoglek@andrew.cmu.edu
   number_educ: 2
   education1: M.S. Carnegie Mellon University
-  education2: B.S. Huazhong University of Science and Technology
+  education2: B.S. College of Engineering Pune
+  
 
-- name: <a href="https://www.linkedin.com/in/haiguang-liao-4747bbb0/">Haiguang Liao</a>
-  photo: haiguangliao.jpg
-  info: Ph.D. candidate, started Fall 2018
-  email: haiguanl@andrew.cmu.edu
-  number_educ: 3
-  education1: M.S. Northwestern University
-  education2: M.S. Shanghai Jiao Tong University
-  education3: B.S. Shanghai Jiao Tong University
-
-- name: Tong Lin
-  photo: tonglin.jpg
-  info: Ph.D. candidate, started Fall 2018
-  email: tongl1@andrew.cmu.edu 
-  number_educ: 2
-  education1: M.S. Carnegie Mellon University
-  education2: B.S. The Ohio State University 
-
-- name: Xuliang Dong
-  photo: xuliangdong.jpg
-  info: M.S. candidate, started Fall 2018
-  email: xuliangd@andrew.cmu.edu
-  number_educ: 1
-  education1: B.S. Zhejiang University (ZJU)
-
-- name: <a href="https://www.linkedin.com/in/vidh1/">Vidhi Upadhyay </a>
-  photo: vidhiupadhyay.jpg
-  info: M.S. candidate, started Fall 2019
-  email: vupadhya@andrew.cmu.edu
-  number_educ: 1
-  education1: B.Tech. VIT University
-
-- name: Ruchit Sandeep Doshi
-  photo: ruchitsandeepdoshi.jpg
-  info: M.S. candidate, started Fall 2019
-  email: ruchitsd@andrew.cmu.edu
-  number_educ: 1
-  education1: B.S. Mechanical Engineering, Mumbai University 
-
-- name: Qingyi Dong
-  photo: qingyidong.jpg
-  info: Undergraduate researcher, started Spring 2019
-  email: qingyid@andrew.cmu.edu
-  number_educ: 1
-  education1: B.S. Carnegie Mellon University, ECE (ongoing)
-
-- name: Jackie (Yifei) Li
-  photo: jackieli.jpg
-  info: Undergraduate researcher, started Spring 2019
-  email: yifeil1@andrew.cmu.edu
-  number_educ: 1
-  education1: B.S. Carnegie Mellon University, CS (ongoing)
-
-- name: Willetta Wisely
-  photo: willettawisely.jpg
-  info: Undergraduate researcher, started Fall 2019
-  email: wwisely@andrew.cmu.edu
-  number_educ: 1
-  education1: B.S. Carnegie Mellon University, MechE (ongoing)
+# - name:
+#   photo:
+#   info:
+#   email:
+#   number_educ: 1
+#   education1:
 
 
+# - name:
+#   photo:
+#   info:
+#   email:
+#   number_educ: 2
+#   education1:
+#   education2:
