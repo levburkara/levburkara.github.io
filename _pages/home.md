@@ -165,11 +165,13 @@ To this end, our research focuses on generating new algorithmic and methodologic
 
 <br /> 
 
+<!-- 
 The Word Cloud from our publications (2014-2019):
 
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/wordcloudpic/wordcloud.png" width="100%" style="border:1px solid">
 </figure>
+ -->
 
 <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/worldcloudpic/wordcloud.png" alt="wordcloud" style="border:5px solid"> -->
 
