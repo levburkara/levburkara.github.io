@@ -15,6 +15,7 @@ The links below point to the most recent syllabus for each course.
 | [MLAI] | 24787 | &nbsp; &nbsp; &nbsp;| [Machine Learning and Artificial Intelligence for Engineers](http://vdel.me.cmu.edu/vdelresource/teaching/24787/syllabus.pdf)  |
 | [MLAI-P]| 24788 | &nbsp; &nbsp; &nbsp;| [Machine Learning and Artificial Intelligence for Engineers - Project](http://vdel.me.cmu.edu/vdelresource/teaching/24788/syllabus.pdf)  |
 | [Design II] | 24441 | &nbsp; &nbsp; &nbsp;| [Capstone - ME Engineering Design: Conceptualization and Realization](http://vdel.me.cmu.edu/vdelresource/teaching/24441/syllabus.pdf)  |
+| [DSC] | 24352 | &nbsp; &nbsp; &nbsp; | [Dynamic Systems and Control](http://vdel.me.cmu.edu/vdelresource/teaching/24352/syllabus.pdf)  |
 | [LAVC] | 24282 | &nbsp; &nbsp; &nbsp;| [Linear Algebra and Vector Calculus](http://vdel.me.cmu.edu/vdelresource/teaching/24282/syllabus.pdf)  |
 | [S.T. in Graphics] | 15869 | &nbsp; &nbsp; &nbsp;| [Special Topics in Graphics](http://vdel.me.cmu.edu/vdelresource/teaching/15869/syllabus.pdf)  |
 | [IPD] | 49741 | &nbsp; &nbsp; &nbsp;| [Capstone - Integrated Product Development](http://vdel.me.cmu.edu/vdelresource/teaching/49741/syllabus.pdf)  |
@@ -28,6 +29,10 @@ Prof. Kara's teaching history:
 
 | Course &nbsp; &nbsp; &nbsp; &nbsp;| Units &nbsp; &nbsp; &nbsp; &nbsp;| Class &nbsp; &nbsp; &nbsp; &nbsp;| Offered &nbsp; &nbsp; &nbsp;| Num of Students &nbsp; &nbsp; &nbsp;|
 |:--------			|:-------|:-------|---------:|-----------:|
+| LAVC				|12	| Gr	| Spring 22		| 41	| 
+| MLAI-P			|12	| Gr	| Spring 21		| 42	| 
+| DSC        	    |12	| Jr	| Fall 20		| 24	| 
+| MLAI-P        	|12	| Gr	| Spring 20		| 15	| 
 | LAVC				|10	| Soph	| Spring 19		| 9		| 
 | MLAI-P			|12	| Gr	| Fall 18		| 39	| 
 | MLAI-P        	|12	| Gr	| Spring 18		| 25	| 
