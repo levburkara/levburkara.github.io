@@ -229,4 +229,6 @@ We are grateful for the funding and support of these sponsors:
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_aro.png" style="width: 100px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_mfi.png" style="width: 100px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_saic.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_eaton.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_lockheed.png" style="width: 100px">
 </figure>
