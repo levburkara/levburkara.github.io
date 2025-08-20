@@ -6,7 +6,9 @@ sitemap: false
 permalink: /publications/
 ---
 
-# Publications [you can also follow our publications at [Google Scholar](https://scholar.google.com/citations?user=_X2eOeQAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Levent_Kara2)]
+# Publications 
+
+You can also follow us at [Google Scholar](https://scholar.google.com/citations?user=_X2eOeQAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Levent_Kara2)
 
 <!-- 
 ## Highlights
