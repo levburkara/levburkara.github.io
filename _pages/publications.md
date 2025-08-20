@@ -6,12 +6,12 @@ sitemap: false
 permalink: /publications/
 ---
 
-# Publications
-
-For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?user=_X2eOeQAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Levent_Kara2)
+# Publications [you can also follow our publications at [Google Scholar](https://scholar.google.com/citations?user=_X2eOeQAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Levent_Kara2)]
 
 <!-- 
 ## Highlights
+
+For a full list see [below](#full-list)
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
