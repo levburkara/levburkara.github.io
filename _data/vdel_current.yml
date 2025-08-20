@@ -1,24 +1,3 @@
-- name: Kevin Ferguson
-  photo: kevinferguson.jpg
-  info: Ph.D. candidate, started Fall 2020
-  email: kferguso@andrew.cmu.edu
-  number_educ: 1
-  education1: B.S. Rose-Hulman Institute of Technology
-
-- name: Daniel Emerson
-  photo: danielemerson.jpg
-  info: Ph.D. candidate, started Fall 2020
-  email: danielem@andrew.cmu.edu
-  number_educ: 1
-  education1: B.S. University of Massachusetts Amherst
-
-- name: Yu-hsuan (Sean) Chen
-  photo: yuhsuanchen.jpg
-  info: Ph.D. candidate, started Fall 2020
-  email: yuhsuan2@andrew.cmu.edu
-  number_educ: 1
-  education1: B.S. National Taiwan University
-
 - name: Haolin Liu
   photo: haolinliu.jpg
   info: Ph.D. candidate, started Spring 2021
@@ -27,13 +6,6 @@
   education1: M.S. Carnegie Mellon University
   education2: B.S. Beihang University
 
-- name: Hongrui (Ray) Chen
-  photo: hongruichen.jpg
-  info: Ph.D. candidate, started Fall 2021
-  email: hongruic@andrew.cmu.edu
-  number_educ: 1
-  education1: B.S. University of Wisconsin-Madison
-
 - name: Aditya Joglekar
   photo: adityajoglekar.jpg
   info: Ph.D. candidate, started Spring 2024
@@ -41,6 +13,14 @@
   number_educ: 2
   education1: M.S. Carnegie Mellon University
   education2: B.S. College of Engineering Pune
+
+  - name: Eladio Andujar Lugo <>
+  photo: haolinliu.jpg
+  info: Ph.D. candidate, started Fall 2025
+  email: eandujar@andrew.cmu.edu
+  number_educ: 2
+  education1: M.S. Carnegie Mellon University
+  education2: B.S. Beihang University
   
 
 # - name:
