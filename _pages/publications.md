@@ -8,10 +8,10 @@ permalink: /publications/
 
 # Publications
 
+For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?user=_X2eOeQAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Levent_Kara2)
+
 <!-- 
 ## Highlights
-
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?user=_X2eOeQAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Levent_Kara2))
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
