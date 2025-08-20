@@ -55,7 +55,7 @@ For a full list see [below](#full-list)
 <!-- <p> &nbsp; </p> -->
 
 
-## Full List
+<!-- ## Full List -->
 
 <script src="https://bibbase.org/show?bib=http%3A%2F%2Fvdel.me.cmu.edu%2Fvdelresource%2Fpublications%2Flbkrefs.bib&jsonp=1&fullnames=1&theme=default"></script>
 
