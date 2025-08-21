@@ -14,14 +14,14 @@
   education1: M.S. Carnegie Mellon University
   education2: B.S. College of Engineering Pune
 
-  - name: Eladio Andujar Lugo
+- name: Eladio Andujar Lugo
   photo: eladioandujarlugo.jpg
   info: Ph.D. candidate, started Fall 2025
   email: eandujar@andrew.cmu.edu
   number_educ: 1
   education1: B.S. Carnegie Mellon University
 
-  - name: Xuzhe Zeng
+- name: Xuzhe Zeng
   photo: xuzhezeng.jpg
   info: M.S. candidate, started Fall 2024
   email: xuzhez@andrew.cmu.edu
