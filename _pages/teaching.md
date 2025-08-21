@@ -13,7 +13,7 @@ permalink: /teaching/
 The links below point to the most recent syllabus for each course.
 
 | [AIML] | 24787 | &nbsp; &nbsp; &nbsp;| [Machine Learning and Artificial Intelligence for Engineers]({{ site.url }}{{ site.baseurl }}/syllabus/syllabus-24787.pdf)  |
-| [AIML-online] | 24887 | &nbsp; &nbsp; &nbsp;| [Machine Learning and Artificial Intelligence for Engineers]({{ site.url }}{{ site.baseurl }}/syllabus/syllabus-24787.pdf)  |
+| [AIML-online] | 24887 | &nbsp; &nbsp; &nbsp;| Content identical to 24787, [more info](https://www.cmu.edu/online/aimlmeche/curriculum/index.html)   |
 | [AIML-Proj]| 24788 | &nbsp; &nbsp; &nbsp;| [Machine Learning and Artificial Intelligence for Engineers - Project]({{ site.url }}{{ site.baseurl }}/syllabus/syllabus-24788.pdf)  |
 | [Design II] | 24441 | &nbsp; &nbsp; &nbsp;| [Capstone - ME Engineering Design: Conceptualization and Realization]({{ site.url }}{{ site.baseurl }}/syllabus/syllabus-24441.pdf) |
 | [DSC] | 24352 | &nbsp; &nbsp; &nbsp; | [Dynamic Systems and Control]({{ site.url }}{{ site.baseurl }}/syllabus/syllabus-24352.pdf)  |
