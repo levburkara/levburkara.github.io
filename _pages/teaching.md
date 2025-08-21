@@ -8,7 +8,7 @@ permalink: /teaching/
 
 # Teaching
 
-Fall 2019: Prof. Kara is on sabbatical, hence not teaching.
+<!-- Fall 2019: Prof. Kara is on sabbatical, hence not teaching. -->
 
 The links below point to the most recent syllabus for each course.
 
