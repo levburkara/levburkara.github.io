@@ -232,5 +232,8 @@ Our research has been funded by:
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_mfi.png" style="width: 100px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_saic.png" style="width: 100px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_eaton.png" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_lockheed.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_lockheed.png" style="width: 130px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_esab.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_altair.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_sap.png" style="width: 100px">
 </figure>
