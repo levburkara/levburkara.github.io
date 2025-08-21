@@ -100,7 +100,7 @@ To this end, our research focuses on generating new algorithmic and methodologic
 * AI / ML
   * Regression
   * Deep Learning
-  * Reinforcement Learning
+  * GGgenerative AI
 * Geometric Modeling
   * Shape Modeling
   * Shape Processing
@@ -184,13 +184,13 @@ The Word Cloud from our publications (2014-2019):
 * AI / ML
   * Regression
   * Deep Learning
-  * Reinforcement Learning
+  * Generative AI
 * Geometric Modeling
   * Shape Modeling
   * Shape Processing
 * Analysis and Synthesis
   * Optimization 
-  * Generative Design 
+  * Data-driven Design 
   * Solid mechanics
   * Physics Simulations
   * FEA/meshing 
