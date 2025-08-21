@@ -213,7 +213,7 @@ We are located at Leiden University, the birthplace of superconductivity and hom
 
 <br /> 
 
-We are grateful for the funding and support of these sponsors:
+Our research has been funded by:
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_nsf.png" style="width: 100px">
