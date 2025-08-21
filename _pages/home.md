@@ -100,7 +100,7 @@ To this end, our research focuses on generating new algorithmic and methodologic
 * AI / ML
   * Regression
   * Deep Learning
-  * GGgenerative AI
+  * Generative AI
 * Geometric Modeling
   * Shape Modeling
   * Shape Processing
@@ -126,7 +126,7 @@ To this end, our research focuses on generating new algorithmic and methodologic
             <ul>
               <li>Regression</li>
               <li>Deep Learning</li>
-              <li>Reinforcement Learning</li>
+              <li>Generative AI</li>
             </ul>
           </li>
           <li>Engineering Analysis and Synthesis
