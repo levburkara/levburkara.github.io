@@ -14,6 +14,7 @@ The links below point to the most recent syllabus for each course.
 
 | [AIML] | 24787 | &nbsp; &nbsp; &nbsp;| [Machine Learning and Artificial Intelligence for Engineers]({{ site.url }}{{ site.baseurl }}/syllabus/syllabus-24787.pdf)  |
 | [AIML-online] | 24887 | &nbsp; &nbsp; &nbsp;| Content identical to 24787, [more info](https://www.cmu.edu/online/aimlmeche/curriculum/index.html)   |
+| [NM] | 24311 | &nbsp; &nbsp; &nbsp;| [Numerical Methods - Undergraduate]({{ site.url }}{{ site.baseurl }}/syllabus/syllabus-24311.pdf) |
 | [AIML-Proj]| 24788 | &nbsp; &nbsp; &nbsp;| [Machine Learning and Artificial Intelligence for Engineers - Project]({{ site.url }}{{ site.baseurl }}/syllabus/syllabus-24788.pdf)  |
 | [Design II] | 24441 | &nbsp; &nbsp; &nbsp;| [Capstone - ME Engineering Design: Conceptualization and Realization]({{ site.url }}{{ site.baseurl }}/syllabus/syllabus-24441.pdf) |
 | [DSC] | 24352 | &nbsp; &nbsp; &nbsp; | [Dynamic Systems and Control]({{ site.url }}{{ site.baseurl }}/syllabus/syllabus-24352.pdf)  |
@@ -24,12 +25,12 @@ The links below point to the most recent syllabus for each course.
 | |  | &nbsp; &nbsp; &nbsp;|  | 
 | |  | &nbsp; &nbsp; &nbsp;|  | 
 
-
 Prof. Kara's teaching history:
-
 
 | Course &nbsp; &nbsp; &nbsp; &nbsp;| Units &nbsp; &nbsp; &nbsp; &nbsp;| Class &nbsp; &nbsp; &nbsp; &nbsp;| Offered &nbsp; &nbsp; &nbsp;| Num of Students &nbsp; &nbsp; &nbsp;|
 |:--------			|:-------|:-------|---------:|-----------:|
+| NM               |10	| Jr    | Spring 26		| 141	|
+| AIML-Online       |12	| Gr    | Fall 25		| 28	| 
 | AIML              |12	| Gr    | Spring 25		| 46	| 
 | AIML-Online       |12	| Gr    | Spring 25		| 7	| 
 | AIML              |12	| Gr    | Fall 24		| 140	| 
