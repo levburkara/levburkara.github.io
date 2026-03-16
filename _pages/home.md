@@ -207,6 +207,16 @@ You can find our publications at [Google Scholar](https://scholar.google.com/cit
 <br>
 <br>
 
+<script src="https://bibbase.org/show?bib=http%3A%2F%2Fvdel.me.cmu.edu%2Fvdelresource%2Fpublications%2Flbkrefs.bib&jsonp=1&fullnames=1&theme=default"></script>
+
+{% for publi in site.data.publist %}
+
+  {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+{% endfor %}
+
+
 
 <!-- To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
 
