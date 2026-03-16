@@ -8,10 +8,6 @@ permalink: /publications/
 
 # Publications 
 
-You can find our publications at [Google Scholar](https://scholar.google.com/citations?user=_X2eOeQAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Levent_Kara2). If having trouble, [contact us](mailto:lkara@cmu.edu) and we would be happy to send you pre-prints. 
-
-<br>
-<br>
 
 <!-- 
 ## Highlights
@@ -60,7 +56,7 @@ For a full list see [below](#full-list)
 
 <!-- ## Full List -->
 
-<!-- <script src="https://bibbase.org/show?bib=http%3A%2F%2Fvdel.me.cmu.edu%2Fvdelresource%2Fpublications%2Flbkrefs.bib&jsonp=1&fullnames=1&theme=default"></script> -->
+<script src="https://bibbase.org/show?bib=http%3A%2F%2Fvdel.me.cmu.edu%2Fvdelresource%2Fpublications%2Flbkrefs.bib&jsonp=1&fullnames=1&theme=default"></script> 
 
 <!-- {% for publi in site.data.publist %}
 
