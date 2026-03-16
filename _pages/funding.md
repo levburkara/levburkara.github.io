@@ -1,72 +1,37 @@
 ---
-title: "Visual Design and Engineering Lab - Publications"
+title: "Visual Design and Engineering Lab - Funding"
 layout: gridlay
-excerpt: "Publications."
+excerpt: "Funding."
 sitemap: false
-permalink: /publications/
+permalink: /funding/
 ---
 
-# Publications 
+# Funding 
 
-You can find our publications at [Google Scholar](https://scholar.google.com/citations?user=_X2eOeQAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Levent_Kara2). If having trouble, [contact us](mailto:lkara@cmu.edu) and we would be happy to send you pre-prints. 
+We are grateful for the generous support of the following sponsors:
 
-<br>
-<br>
-
-<!-- 
-## Highlights
-
-For a full list see [below](#full-list)
-
-{% assign number_printed = 0 %}
-{% for publi in site.data.publist %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if publi.highlight == 1 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
- <div class="well">
-  <pubtit>{{ publi.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
-  <p>{{ publi.description }}</p>
-  <p><em>{{ publi.authors }}</em></p>
-  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
-  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
-  <p> {{ publi.news2 }}</p>
- </div>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endif %}
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
- -->
-
-<!-- <p> &nbsp; </p> -->
+<figure class="fourth">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_nsf.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_darpa.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_boeing.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_siemens.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_americamakes.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_misumi.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_mitsubishielectric.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_pita.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ansys.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_honda.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_berkman.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_afrl.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_aro.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_mfi.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_saic.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_eaton.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_lockheed.png" style="width: 130px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_esab.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_altair.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_sap.png" style="width: 100px">
+</figure>
 
 
-<!-- ## Full List -->
-
-<!-- <script src="https://bibbase.org/show?bib=http%3A%2F%2Fvdel.me.cmu.edu%2Fvdelresource%2Fpublications%2Flbkrefs.bib&jsonp=1&fullnames=1&theme=default"></script> -->
-
-<!-- {% for publi in site.data.publist %}
-
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-
-{% endfor %}
--->
 
