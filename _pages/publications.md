@@ -56,7 +56,7 @@ For a full list see [below](#full-list)
 
 <!-- ## Full List -->
 
-<script src="https://bibbase.org/show?bib=http%3A%2F%2Fvdel.me.cmu.edu%2Fvdelresource%2Fpublications%2Flbkrefs.bib&jsonp=1&fullnames=1&theme=default"></script> 
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fgithub.com%2Flevburkara%2Flevburkara.github.io%2Fblob%2Fmain%2F_data%2Flbkrefs.bib&commas=true&noBootstrap=1&jsonp=1"></script>
 
 <!-- {% for publi in site.data.publist %}
 
