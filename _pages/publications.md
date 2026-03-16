@@ -13,7 +13,7 @@ You can find our publications at [Google Scholar](https://scholar.google.com/cit
 <br>
 <br>
 
-<script src="https://bibbase.org/show?bib=https%3A%2F%2Fgithub.com%2Flevburkara%2Flevburkara.github.io%2Fblob%2Fmain%2F_data%2Flbkrefs.bib&commas=true&noBootstrap=1&jsonp=1"></script>
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fraw.githubusercontent.com%2Flevburkara%2Flevburkara.github.io%2Frefs%2Fheads%2Fmain%2F_data%2Flbkrefs.bib&commas=true&noBootstrap=1&jsonp=1"></script>
 
 
 
