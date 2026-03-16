@@ -200,14 +200,6 @@ The Word Cloud from our publications (2014-2019):
   </tbody>
 </table> -->
 
-# Publications 
-
-You can find our publications at [Google Scholar](https://scholar.google.com/citations?user=_X2eOeQAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Levent_Kara2), and [ORCID](https://orcid.org/0000-0002-2203-4020). If having trouble, [contact us](mailto:lkara@cmu.edu) and we would be happy to send you pre-prints. 
-
-<br>
-<br>
-
-<script src="https://bibbase.org/show?bib=https%3A%2F%2Fgithub.com%2Flevburkara%2Flevburkara.github.io%2Fblob%2Fmain%2F_data%2Flbkrefs.bib&commas=true&noBootstrap=1&jsonp=1"></script>
 
 
 <!-- To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
