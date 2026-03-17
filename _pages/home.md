@@ -26,7 +26,6 @@ We are a dynamic research group at the [Mechanical Engineering Department](https
     </ol>
 
     <div class="carousel-inner" markdown="0">
-
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/homeslider/pic1.png" alt="Slide 1" />
         </div>
@@ -150,30 +149,6 @@ The Word Cloud from our publications (2014-2019):
  -->
 
 <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/worldcloudpic/wordcloud.png" alt="wordcloud" style="border:5px solid"> -->
-
-<!-- <table>
-  <tbody>
-      <tr>
-          <td>
-* AI / ML
-  * Regression
-  * Deep Learning
-  * Generative AI
-* Geometric Modeling
-  * Shape Modeling
-  * Shape Processing
-* Analysis and Synthesis
-  * Optimization 
-  * Data-driven Design 
-  * Solid mechanics
-  * Physics Simulations
-  * FEA/meshing 
-</td>
-          <td>2</td>
-      </tr>
-  </tbody>
-</table> -->
-
 
 
 <!-- To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
