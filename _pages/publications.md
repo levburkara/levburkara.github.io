@@ -11,7 +11,7 @@ permalink: /publications/
 You can find our publications at [Google Scholar](https://scholar.google.com/citations?user=_X2eOeQAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Levent_Kara2), and [ORCID](https://orcid.org/0000-0002-2203-4020). If having trouble, [contact us](mailto:lkara@cmu.edu) and we would be happy to send you pre-prints. 
 
 
-<script src="https://bibbase.org/show?bib=https%3A%2F%2Fraw.githubusercontent.com%2Flevburkara%2Flevburkara.github.io%2Frefs%2Fheads%2Fmain%2F_data%2Flbkrefs.bib&commas=true&noBootstrap=1&jsonp=1" fullnames=1></script>
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fraw.githubusercontent.com%2Flevburkara%2Flevburkara.github.io%2Frefs%2Fheads%2Fmain%2F_data%2Flbkrefs.bib&commas=true&noBootstrap=1&jsonp=1&fullnames=1&owner=none"></script>
 
 
 
