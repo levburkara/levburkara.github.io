@@ -1,6 +1,6 @@
 ---
 title: "Visual Design and Engineering Lab - Funding"
-layout: homelay
+layout: fundinglay
 excerpt: "Funding."
 sitemap: false
 permalink: /funding/
