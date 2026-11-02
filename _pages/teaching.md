@@ -2,7 +2,7 @@
 title: "Visual Design and Engineering Lab - Teaching"
 layout: textlay
 excerpt: "Teaching"
-sitemap: false
+sitemap: true
 permalink: /teaching/
 ---
 
