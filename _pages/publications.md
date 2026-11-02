@@ -26,7 +26,7 @@ The laboratory's current work in engineering AI builds on a long-running program
 
 ## Selected contributions
 
-<div class="row">
+<div class="row" markdown="0">
   <div class="col-sm-6">
     <div class="well selected-publication">
       <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/ulu2017lightweight.png" alt="Lightweight structures optimized under uncertain force locations" class="img-responsive" />
@@ -49,7 +49,7 @@ The laboratory's current work in engineering AI builds on a long-running program
   </div>
 </div>
 
-<div class="row">
+<div class="row" markdown="0">
   <div class="col-sm-6">
     <div class="well selected-publication">
       <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/erva2019sgp.png" alt="Structural design using Laplacian shells" class="img-responsive" />
@@ -72,7 +72,7 @@ The laboratory's current work in engineering AI builds on a long-running program
   </div>
 </div>
 
-<div class="row">
+<div class="row" markdown="0">
   <div class="col-sm-6">
     <div class="well selected-publication">
       <img src="{{ site.url }}{{ site.baseurl }}/images/homeslider/liuhaolin2024am.png" alt="Acoustic and thermal monitoring of laser powder bed fusion" class="img-responsive" />
@@ -95,7 +95,7 @@ The laboratory's current work in engineering AI builds on a long-running program
   </div>
 </div>
 
-<div class="row">
+<div class="row" markdown="0">
   <div class="col-sm-6">
     <div class="well selected-publication">
       <img src="{{ site.url }}{{ site.baseurl }}/images/homeslider/ferguson2025mddmmoleculardynamicsdiffusion.png" alt="Generative molecular and peptide design" class="img-responsive" />
@@ -118,7 +118,7 @@ The laboratory's current work in engineering AI builds on a long-running program
   </div>
 </div>
 
-<div class="row">
+<div class="row" markdown="0">
   <div class="col-sm-6">
     <div class="well selected-publication">
       <img src="{{ site.url }}{{ site.baseurl }}/images/homeslider/Chen2025multiscale.png" alt="Multi-scale topology optimization using neural networks" class="img-responsive" />
