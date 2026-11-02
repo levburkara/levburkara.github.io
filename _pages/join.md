@@ -2,7 +2,7 @@
 title: "Visual Design and Engineering Lab - Join"
 layout: textlay
 excerpt: "Join"
-sitemap: false
+sitemap: true
 permalink: /join/
 ---
 
