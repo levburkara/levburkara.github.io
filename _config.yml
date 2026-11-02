@@ -1,18 +1,19 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
-title: VDEL
+title: "Levent Burak Kara | Visual Design and Engineering Lab"
 email: lkara@cmu.edu
-description: > # this means to ignore newlines until "baseurl:"
-  Website for the Visual Design and Engineering Lab at Carnegie Mellon University
-#baseurl: "levburkara"
-baseurl: ""
+description: >-
+  Levent Burak Kara and the Visual Design and Engineering Laboratory at
+  Carnegie Mellon University develop artificial intelligence, geometric,
+  and physics-based methods for engineering design, simulation, and
+  manufacturing.
+
 url: "https://levburkara.github.io"
+baseurl: ""
+
+author:
+  name: "Levent Burak Kara"
+  title: "Professor of Mechanical Engineering"
+  institution: "Carnegie Mellon University"
 
 include:
   - .htaccess
@@ -28,9 +29,7 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
-
-
-# Markdown Processing
+# Markdown processing
 kramdown:
   input: GFM
   hard_wrap: false
@@ -40,4 +39,4 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
-  parse_block_html: true # default for kramdown is false. This will enable using Markdown links
+  parse_block_html: true
