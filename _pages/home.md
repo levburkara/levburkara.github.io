@@ -2,7 +2,7 @@
 title: "Visual Design and Engineering Lab - Home"
 layout: homelay
 excerpt: "Visual Design and Engineering Lab at Carnegie Mellon University."
-sitemap: false
+sitemap: true
 permalink: /
 ---
 
