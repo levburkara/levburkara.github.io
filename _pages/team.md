@@ -1,165 +1,100 @@
 ---
-title: "Visual Design and Engineering Lab - Team"
+title: "Team | Levent Burak Kara and the Visual Design and Engineering Lab"
 layout: gridlay
-excerpt: "Team"
+excerpt: "Faculty, researchers, students, and alumni of the Visual Design and Engineering Laboratory at Carnegie Mellon University."
 sitemap: true
 permalink: /team/
 ---
 
-# Group Members
+# Team
 
- **We are looking for new Ph.D. students, Post-docs,  Master students and undergraduate students to** [(join the team)]({{ site.url }}{{ site.baseurl }}/join)**!**
-
-
-<!-- Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors). -->
+VDEL brings together researchers with backgrounds in mechanical engineering, artificial intelligence, computational science, design, and manufacturing. Our work combines methodological research, computational implementation, and validation on substantive engineering problems.
 
 ## Faculty
-{% assign number_printed = 0 %}
-{% for member in site.data.vdel_director %}
 
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>email: <{{ member.email }}></i>
-  <ul style="overflow: hidden">
-
-  {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 2 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 5 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  <li> {{ member.education5 }} </li>
-  {% endif %}
-
-  </ul>
+<div class="row" markdown="0">
+<div class="col-sm-12 clearfix">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/leventburakkara.jpg" class="img-responsive" width="22%" style="float: left" alt="Levent Burak Kara" />
+<h3>Levent Burak Kara</h3>
+<p><strong>Professor of Mechanical Engineering</strong><br />
+Courtesy Appointment, Robotics Institute<br />
+Director, Visual Design and Engineering Laboratory<br />
+Carnegie Mellon University</p>
+<p>My research develops computational methods that enable machines to interpret, generate, analyze, and improve engineered designs. By connecting geometry, physics, data, and human intent, my group seeks to make engineering design and manufacturing more intelligent, accessible, and responsive to real-world constraints.</p>
+<p><a href="mailto:lkara@cmu.edu">Email</a> · <a href="https://scholar.google.com/citations?user=_X2eOeQAAAAJ&hl=en">Google Scholar</a> · <a href="https://orcid.org/0000-0002-2203-4020">ORCID</a> · <a href="https://www.linkedin.com/in/lkara">LinkedIn</a></p>
+</div>
 </div>
 
-{% assign number_printed = number_printed | plus: 1 %}
+## Postdoctoral Researchers
 
-{% if even_odd == 1 %}
+{% assign postdocs = site.data.vdel_current | where: "group", "postdoc" %}
+{% for member in postdocs %}
+<div class="row" markdown="0">
+<div class="col-sm-12 clearfix">
+{% if member.photo %}<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="18%" style="float: left" alt="{{ member.name }}" />{% endif %}
+<h3>{% if member.profile %}<a href="{{ member.profile }}">{{ member.name }}</a>{% else %}{{ member.name }}{% endif %}</h3>
+<p><strong>{{ member.role }}</strong>{% if member.started %}, started {{ member.started }}{% endif %}</p>
+{% if member.research %}<p><strong>Research:</strong> {{ member.research }}</p>{% endif %}
+{% if member.education %}<ul>{% for degree in member.education %}<li>{{ degree }}</li>{% endfor %}</ul>{% endif %}
+{% if member.email %}<p><a href="mailto:{{ member.email }}">Email</a>{% if member.profile %} · <a href="{{ member.profile }}">Profile</a>{% endif %}</p>{% endif %}
 </div>
-{% endif %}
-
+</div>
 {% endfor %}
 
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
+## Ph.D. Students
 
-## Current Members
+{% assign phd_students = site.data.vdel_current | where: "group", "phd" %}
 {% assign number_printed = 0 %}
-{% for member in site.data.vdel_current %}
-
+{% for member in phd_students %}
 {% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
+{% if even_odd == 0 %}<div class="row" markdown="0">{% endif %}
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>email: <{{ member.email }}></i>
-  <ul style="overflow: hidden">
-
-  {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 2 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 5 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  <li> {{ member.education5 }} </li>
-  {% endif %}
-
-  </ul>
+{% if member.photo %}<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="28%" style="float: left" alt="{{ member.name }}" />{% endif %}
+<h3>{% if member.profile %}<a href="{{ member.profile }}">{{ member.name }}</a>{% else %}{{ member.name }}{% endif %}</h3>
+<p><strong>{{ member.role }}</strong>{% if member.started %}, started {{ member.started }}{% endif %}</p>
+{% if member.research %}<p><strong>Research:</strong> {{ member.research }}</p>{% endif %}
+{% if member.education %}<ul>{% for degree in member.education %}<li>{{ degree }}</li>{% endfor %}</ul>{% endif %}
+{% if member.email %}<p><a href="mailto:{{ member.email }}">Email</a>{% if member.profile %} · <a href="{{ member.profile }}">Profile</a>{% endif %}</p>{% endif %}
 </div>
-
 {% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
+{% if even_odd == 1 %}</div>{% endif %}
 {% endfor %}
+{% assign final_even_odd = number_printed | modulo: 2 %}
+{% if final_even_odd == 1 %}</div>{% endif %}
 
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
+## Ph.D. Alumni
 
-
-## Alumni
-<div class="row">
-
-<div class="col-sm-6 clearfix">
-<h4>Ph.D. Alumni</h4>
+<div class="phd-alumni">
 {% for member in site.data.vdel_alumni_phd %}
-{{ member.name }}
+<div class="alumni-entry">
+<h4>{% if member.profile %}<a href="{{ member.profile }}">{{ member.name }}</a>{% else %}{{ member.name }}{% endif %}, Ph.D. {{ member.year }}</h4>
+{% if member.thesis %}<p><em>{{ member.thesis }}</em></p>{% endif %}
+{% if member.destination %}<p>{{ member.destination }}</p>{% endif %}
+</div>
 {% endfor %}
 </div>
 
-<div class="col-sm-3 clearfix">
-<h4>M.S. Alumni</h4>
+<div class="row">
+<div class="col-sm-8">
+
+## M.S. Alumni
+
 {% for member in site.data.vdel_alumni_ms %}
-{{ member.name }}
+{% if member.profile %}<a href="{{ member.profile }}">{{ member.name }}</a>{% else %}{{ member.name }}{% endif %}{% if member.year %}, {{ member.year }}{% endif %}<br />
 {% endfor %}
-</div>
 
-<div class="col-sm-3 clearfix">
-<h4>B.S. Alumni</h4>
+</div>
+<div class="col-sm-4">
+
+## B.S. Alumni
+
 {% for member in site.data.vdel_alumni_bs %}
-{{ member.name }}
+{{ member.name }}<br />
 {% endfor %}
-</div>
 
 </div>
+</div>
+
+## Join VDEL
+
+We welcome inquiries from prospective Ph.D., M.S., and undergraduate researchers whose interests align with the laboratory's work. See the [Join page]({{ site.url }}{{ site.baseurl }}/join) for preparation and application information.
