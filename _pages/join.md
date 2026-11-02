@@ -8,7 +8,7 @@ permalink: /join/
 
 # Join VDEL
 
-VDEL welcomes students and researchers who are interested in developing computational methods for engineering design, simulation, and manufacturing. Our projects typically connect artificial intelligence with geometry, physics, optimization, sensing, or engineering knowledge.
+VDEL welcomes students and researchers who are interested in developing computational methods for engineering design, simulation, and manufacturing. Our projects typically connect AI with geometry, physics, optimization, sensing, or engineering knowledge.
 
 We value rigorous technical preparation, intellectual curiosity, independence, clear communication, and a willingness to implement and validate ideas computationally. Because our work is interdisciplinary, strong applicants may come from mechanical engineering, computer science, applied mathematics, manufacturing, robotics, or related fields.
 
@@ -91,19 +91,26 @@ The appropriate course plan depends on the student's background and project. Cou
 
 | Course | Subject |
 |:--|:--|
-| 24-787 | Machine Learning and Artificial Intelligence for Engineers |
-| 24-788 | Machine Learning and Artificial Intelligence for Engineers — Project |
-| 10-601 / 10-701 | Introduction to Machine Learning |
-| 11-785 | Introduction to Deep Learning |
+| 24-701 | Mathematical Techniques in Engineering |
 | 24-785 | Engineering Optimization |
+| 24-786 | Advanced Optimization |
+| 24-787 | Machine Learning and Artificial Intelligence for Engineers |
+| 24-789 | Deep Learning for Engineers |
+| 24-782 | Machine Learning and Artificial Intelligence Project |
+| 24-880 | AI Agents for Engineers |
+| 24-679 | Designing and Prototyping AI Systems |
+| 10-701 | Introduction to Machine Learning |
+| 10-723 | Generative AI |
+| 11-785 | Introduction to Deep Learning |
 | 10-725 | Convex Optimization |
 | 16-720 | Computer Vision |
 | 24-771 | Linear Systems |
 | 24-780 | Engineering Computation |
 | 24-755 | Finite Element Method in Mechanics I |
 | 24-703 | Numerical Methods in Engineering |
-| 15-462 / 15-662 | Computer Graphics |
-| 15-351 / 15-650 | Algorithms and Advanced Data Structures |
+| 15-662 | Computer Graphics |
+| 15-650 | Algorithms and Advanced Data Structures |
+
 
 Course numbers and offerings may change. Students should consult the current CMU Schedule of Classes and discuss their plans with their academic and research advisors.
 
