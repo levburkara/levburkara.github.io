@@ -1,54 +1,46 @@
-- name: Haolin Liu
-  photo: haolinliu.jpg
-  info: Ph.D. candidate, started Spring 2021
-  email: hlinliu1996@gmail.com
-  number_educ: 2
-  education1: M.S. Carnegie Mellon University
-  education2: B.S. Beihang University
-
-- name: Vedant Puri
-  photo: vedantpuri.jpg
-  info: Ph.D. candidate, started Spring 2022
-  email: vedantpu@andrew.cmu.edu
-  number_educ: 1
-  education1: B.S. University of Illinois at Urbana-Champaign
-
 - name: Aditya Joglekar
+  group: postdoc
+  role: Postdoctoral Researcher
   photo: adityajoglekar.jpg
-  info: Ph.D. candidate, started Spring 2024
   email: aajoglek@andrew.cmu.edu
-  number_educ: 2
-  education1: M.S. Carnegie Mellon University
-  education2: B.S. College of Engineering Pune
+  profile: https://www.linkedin.com/in/adityaajoglekar
+  research: Neural models for engineering design, simulation, optimization, and reconstruction
+  education:
+    - Ph.D. Carnegie Mellon University, 2026
+    - M.S. Carnegie Mellon University
+    - B.S. College of Engineering Pune
 
 - name: Eladio Andujar Lugo
+  group: phd
+  role: Ph.D. Student
+  started: Fall 2025
   photo: eladioandujarlugo.jpg
-  info: Ph.D. candidate, started Fall 2025
   email: eandujar@andrew.cmu.edu
-  number_educ: 1
-  education1: B.S. Carnegie Mellon University
+  research: Generative manufacturing
+  education:
+    - B.S. Carnegie Mellon University
 
-- name: Xuzhe Zeng
-  photo: xuzhezeng.jpg
-  info: M.S. candidate, started Fall 2024
-  email: xuzhez@andrew.cmu.edu
-  number_educ: 1
-  education1: B.S. Chang’an University
-  
-#follow the exact indenting and formatting  shown below
+- name: Mohammed Barakat
+  group: phd
+  role: Ph.D. Student
+  started: Fall 2026
+  photo: placeholder-member.png
+  email: mohammeb@andrew.cmu.edu
+  research: Generative manufacturing
 
-# - name:
-#   photo:
-#   info:
-#   email:
-#   number_educ: 1
-#   education1:
+- name: Advait Madhekar
+  group: phd
+  role: Ph.D. Student
+  started: Fall 2026
+  photo: placeholder-member.png
+  email: amadheka@andrew.cmu.edu
+  profile: https://www.linkedin.com/in/advaitmadhekar
+  research: Cryopreservation
 
-
-# - name:
-#   photo:
-#   info:
-#   email:
-#   number_educ: 2
-#   education1:
-#   education2:
+- name: Eshwar Sivaramakrishnan Ramanathan
+  group: phd
+  role: Ph.D. Student
+  started: Fall 2026
+  photo: placeholder-member.png
+  email: esivaram@andrew.cmu.edu
+  research: Cryopreservation

@@ -1,37 +1,99 @@
-- name: <a href="https://scholar.google.com/citations?user=yKQcX9gAAAAJ&hl=en"> Hongrui (Ray) Chen </a>, 2025
+- name: Aditya Abhay Joglekar
+  year: 2026
+  thesis: "Neural Models in Engineering Design for Simulation, Optimization, and Reconstruction"
+  destination: Postdoctoral Researcher, VDEL, Carnegie Mellon University
+  profile: https://www.linkedin.com/in/adityaajoglekar
 
-- name: <a href="https://www.linkedin.com/in/danemerson13/"> Daniel Emerson </a>, 2025
+- name: Vedant Puri
+  year: 2026
+  thesis: "Neural Representations for Computational Physics: From Reduced-Order Models to Scalable Transformers"
+  destination: NVIDIA
+  profile: https://www.linkedin.com/in/vpuri3
 
-- name: <a href="https://scholar.google.com/citations?user=eDvWyIYAAAAJ&hl=en"> Kevin Ferguson </a>, 2025
+- name: Haolin Liu
+  year: 2026
+  thesis: "Fundamental Physics of Laser-Induced Vaporization Cavities and Associated Aeroacoustic Emissions with Monitoring Applications in Laser Metal Processing"
+  destination: Postdoctoral Researcher, Massachusetts Institute of Technology
+  profile: https://www.linkedin.com/in/haolin-liu-94026b119
 
-- name: <a href="https://scholar.google.com/citations?user=hTcSMF0AAAAJ&hl=zh-TW"> Yu-hsuan (Sean) Chen </a>, 2025
+- name: Yu-hsuan (Sean) Chen
+  year: 2026
+  thesis: "Geometric Representation Learning for Accelerated Design Analysis in Data-Scarce Environments"
+  profile: https://www.linkedin.com/in/sean-cmu/
 
-- name: <a href="https://www.linkedin.com/in/tong-lin-08b889b0/"> Tong Lin </a>, 2024
+- name: Hongrui (Ray) Chen
+  year: 2025
+  thesis: "Neural Network-Based Topology Optimization for Manufacturing"
+  destination: Massachusetts Institute of Technology
+  profile: https://www.linkedin.com/in/hongrui-chen-912167389
 
-- name: <a href="https://www.linkedin.com/in/haiguang-liao-4747bbb0/"> Haiguang Liao </a>, 2022
+- name: Daniel Emerson
+  year: 2025
+  thesis: "Computational Methods to Assist the Development of Liver Cryopreservation Protocols"
+  profile: https://www.linkedin.com/in/danemerson13/
 
-- name: <a href="https://www.linkedin.com/in/wentaiz/"> Wentai Zhang </a>, 2022
+- name: Kevin Ferguson
+  year: 2025
+  thesis: "Data-Driven Geometric Field Prediction Methods and Engineering Applications"
+  profile: https://scholar.google.com/citations?user=eDvWyIYAAAAJ&hl=en
 
-- name: <a href="https://scholar.google.com/citations?user=a42rIigAAAAJ"> Zhenguo Nie </a>, 2020
+- name: Tong Lin
+  year: 2024
+  thesis: "Deep Generative Methods for Target-Specific Drug Design"
+  profile: https://www.linkedin.com/in/tong-lin-08b889b0/
 
-- name: <a href="https://www.kitware.com/ye-han/"> Ye Han </a>, 2020
+- name: Haiguang Liao
+  year: 2022
+  thesis: "Reinforcement and Supervised Learning for Combinatorial Problems in Electronics Design Automation"
+  profile: https://www.linkedin.com/in/haiguang-liao-4747bbb0/
 
-- name: <a href="https://ervaulu.github.io"> Erva Ulu </a>, 2018
+- name: Wentai Zhang
+  year: 2022
+  profile: https://www.linkedin.com/in/wentaiz/
 
-- name: <a href="https://nurcangecer.github.io"> Nurcan Ulu </a>, 2018
+- name: Zhenguo Nie
+  year: 2020
+  destination: Tsinghua University
+  profile: https://cn.linkedin.com/in/zhenguo-nie-846219141
 
-- name: <a href="http://www.meyumer.com"> M. Ersin Yumer </a>, 2015
+- name: Ye Han
+  year: 2020
+  thesis: "Computational Methods for Intraoperative Prediction of Soft-Tissue Deformation Based on Fiducial Marker Registration"
+  destination: Boston Scientific
+  profile: https://www.linkedin.com/in/ye-han-a814b179
 
-- name: <a href="https://www.linkedin.com/in/erhan-batuhan-arisoy"> E. Batuhan Arisoy </a>, 2015
+- name: Erva Ulu
+  year: 2018
+  thesis: "Enhancing the Structural Performance of Additively Manufactured Objects"
+  profile: https://tr.linkedin.com/in/erva-ulu-78787943
 
-- name: <a href="https://www.flsouthern.edu/person/matthew-eicholtz"> Matthew Eicholtz </a>, 2015
+- name: Nurcan Gecer Ulu
+  year: 2018
+  thesis: "Computational Design and Evaluation Methods for Empowering Non-Experts in Digital Fabrication"
+  profile: https://www.linkedin.com/in/nurcangu
 
-- name: <a href="https://www.linkedin.com/in/gunayorbay"> Gunay Orbay </a>, 2013
+- name: Mehmet Ersin Yumer
+  year: 2015
+  thesis: "Learning Shape Proxies from 3D Geometries for Semantic Analysis, Representation, and Manipulation of Man-Made Objects"
+  profile: https://www.linkedin.com/in/meyumer/
 
-- name: <a href="https://www.linkedin.com/in/luoting"> Luoting Fu </a>, 2013
+- name: Erhan B. Arisoy
+  year: 2015
+  thesis: "Enhanced Digital Design Exploration and Recovery Through 3D Wireframe Assistance"
+  profile: https://www.linkedin.com/in/erhan-batuhan-arisoy
 
+- name: Matthew R. Eicholtz
+  year: 2015
+  thesis: "Recognition and Modeling of Planar Mechanical Linkages from Images Using Symbolic and Behavioral Cues"
+  destination: Florida Southern College
+  profile: https://flsouthern.edu/faculty-and-staff/faculty/computer-science/matthew-eicholtz.html#gsc.tab=0
 
-# - name: <a href="[url]"> Name </a>, [Year]
+- name: Gunay Orbay
+  year: 2013
+  thesis: "Computationally Enhanced Product Form Design Through Sketch-Based Interactions"
+  profile: https://www.linkedin.com/in/gunayorbay
 
-# - name: [Name], [Year]
-
+- name: Luoting Fu
+  year: 2013
+  thesis: "Geometric Modeling for Industrial Design with User-Prescribed Constraints"
+  profile: https://www.linkedin.com/in/luoting
