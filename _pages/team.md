@@ -2,7 +2,7 @@
 title: "Visual Design and Engineering Lab - Team"
 layout: gridlay
 excerpt: "Team"
-sitemap: false
+sitemap: true
 permalink: /team/
 ---
 
