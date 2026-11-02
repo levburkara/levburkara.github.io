@@ -62,7 +62,7 @@ Carnegie Mellon University</p>
 {% assign final_even_odd = number_printed | modulo: 2 %}
 {% if final_even_odd == 1 %}</div>{% endif %}
 
-## Ph.D. Alumni
+## Ph.D. and PostDoc Alumni
 
 <div class="phd-alumni">
 {% for member in site.data.vdel_alumni_phd %}
