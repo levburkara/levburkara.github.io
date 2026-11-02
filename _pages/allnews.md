@@ -2,7 +2,7 @@
 title: "Visual Design and Engineering Lab - News"
 layout: textlay
 excerpt: "Visual Design and Engineering Lab at Carnegie Mellon University."
-sitemap: false
+sitemap: true
 permalink: /allnews.html
 ---
 
