@@ -92,3 +92,252 @@ firstp {
     margin-right: 30px;
 }
 
+/* VDEL site refinements */
+
+/* General typography */
+
+body {
+  color: #2b2b2b;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  color: #222;
+  line-height: 1.25;
+}
+
+h1 {
+  margin-bottom: 24px;
+}
+
+h2 {
+  margin-top: 42px;
+  margin-bottom: 18px;
+}
+
+h3 {
+  margin-top: 28px;
+}
+
+p {
+  margin-bottom: 16px;
+}
+
+a {
+  color: #8b0000;
+}
+
+a:hover,
+a:focus {
+  color: #5e0000;
+}
+
+
+/* Navigation */
+
+.navbar-brand {
+  font-weight: 600;
+}
+
+.navbar-default .navbar-brand {
+  color: #222;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: #333;
+}
+
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  color: #8b0000;
+}
+
+
+/* Homepage */
+
+#homeid {
+  padding-bottom: 30px;
+}
+
+#homeid > p:first-of-type {
+  font-size: 17px;
+}
+
+#homeid h2 {
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 8px;
+}
+
+#homeid h3 {
+  color: #8b0000;
+}
+
+#homeid .btn {
+  margin-right: 8px;
+  margin-bottom: 8px;
+}
+
+#homeid .btn-primary {
+  background-color: #8b0000;
+  border-color: #720000;
+}
+
+#homeid .btn-primary:hover,
+#homeid .btn-primary:focus {
+  background-color: #6f0000;
+  border-color: #590000;
+}
+
+#homeid .row {
+  margin-top: 18px;
+  margin-bottom: 24px;
+}
+
+#homeid .row img {
+  width: 100%;
+  height: 190px;
+  object-fit: contain;
+  background: #fff;
+  margin-bottom: 14px;
+}
+
+
+/* News column */
+
+#newsid {
+  border-left: 1px solid #e5e5e5;
+}
+
+#newsid h4 {
+  color: #8b0000;
+}
+
+
+/* Research page */
+
+#textid {
+  max-width: 900px;
+}
+
+#textid h2 {
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 8px;
+}
+
+#textid hr {
+  margin-top: 38px;
+  margin-bottom: 38px;
+  border-top-color: #ddd;
+}
+
+
+/* Selected-publication cards */
+
+.selected-publication {
+  min-height: 500px;
+  margin-bottom: 28px;
+  background: #fafafa;
+  border: 1px solid #ddd;
+  box-shadow: none;
+}
+
+.selected-publication img {
+  float: none !important;
+  width: 100%;
+  height: 190px;
+  object-fit: contain;
+  margin: 0 0 16px 0 !important;
+  border-radius: 3px !important;
+  box-shadow: none !important;
+  background: #fff;
+}
+
+.selected-publication h3 {
+  margin-top: 4px;
+  font-size: 20px;
+}
+
+.selected-publication em {
+  font-size: 14px;
+}
+
+.publication-links {
+  margin-bottom: 0;
+}
+
+.foundational-work {
+  padding-left: 22px;
+}
+
+.foundational-work li {
+  margin-bottom: 12px;
+}
+
+
+/* Complete BibBase publication list */
+
+.bibbase_icon {
+  display: none !important;
+}
+
+.bibbase_group {
+  margin-top: 32px;
+}
+
+.bibbase_paper {
+  margin-bottom: 14px;
+}
+
+
+/* Footer */
+
+#footer {
+  margin-top: 45px;
+}
+
+#footer .panel-footer {
+  border-top: 1px solid #ddd;
+  background-color: #f7f7f7;
+}
+
+
+/* Mobile layout */
+
+@media (max-width: 767px) {
+  body {
+    font-size: 15px;
+  }
+
+  h1 {
+    font-size: 30px;
+  }
+
+  h2 {
+    font-size: 24px;
+  }
+
+  #newsid {
+    border-left: none;
+    border-top: 1px solid #ddd;
+    margin-top: 30px;
+    padding-top: 20px;
+  }
+
+  #homeid .row img,
+  .selected-publication img {
+    height: auto;
+  }
+
+  .selected-publication {
+    min-height: 0;
+  }
+
+  .navbar-brand {
+    font-size: 15px;
+  }
+}
+
