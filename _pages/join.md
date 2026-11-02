@@ -1,65 +1,114 @@
 ---
-title: "Visual Design and Engineering Lab - Join"
+title: "Join VDEL | Visual Design and Engineering Lab"
 layout: textlay
-excerpt: "Join"
+excerpt: "Information for prospective Ph.D., M.S., and undergraduate researchers interested in joining VDEL at Carnegie Mellon University."
 sitemap: true
 permalink: /join/
 ---
 
-# Joining VDEL
+# Join VDEL
 
-We welcome Post-doc, Ph.D., M.S., and undergraduate applicants who have a **strong background** in:
+VDEL welcomes students and researchers who are interested in developing computational methods for engineering design, simulation, and manufacturing. Our projects typically connect artificial intelligence with geometry, physics, optimization, sensing, or engineering knowledge.
 
-* Mechanical engineering (design, solid mechanics, manufacturing)
-* Numerical methods
-* Linear algebra and vector calculus
-* C/C++ or a similar scientific programming language
-* Python and/or Matlab
+We value rigorous technical preparation, intellectual curiosity, independence, clear communication, and a willingness to implement and validate ideas computationally. Because our work is interdisciplinary, strong applicants may come from mechanical engineering, computer science, applied mathematics, manufacturing, robotics, or related fields.
 
+## Current research directions
 
-Experience in some or all of the following fields is **highly** desirable:
+Our current work includes:
 
-- Machine learning
+- Computational representations of engineering geometry, drawings, documents, requirements, and systems models
+- Generative design and manufacturing
+- Physics-aware machine learning and accelerated engineering simulation
+- Topology optimization and manufacturability prediction
+- Intelligent monitoring of manufacturing processes
+- Engineering applications of vision-language models and large language models
+- Computational modeling in biomedical, molecular, and other scientific domains
+
+Prospective researchers should review our [Research]({{ site.url }}{{ site.baseurl }}/research) and [Publications]({{ site.url }}{{ site.baseurl }}/publications) pages before contacting us. In your message, identify the research direction or specific work that most closely connects with your interests.
+
+## Ph.D. students
+
+Prospective Ph.D. students must apply formally to the [Carnegie Mellon Mechanical Engineering graduate program](https://www.meche.engineering.cmu.edu/education/graduate-programs/admission/index.html). Contacting Prof. Kara does not replace the departmental application and does not guarantee admission or funding.
+
+Students interested in VDEL may email Prof. Kara at [lkara@cmu.edu](mailto:lkara@cmu.edu). A useful inquiry should include:
+
+- A concise explanation of your research interests and why they align with VDEL
+- Your CV
+- An unofficial transcript
+- Links to publications, code, a portfolio, or substantial technical projects, if available
+- A brief description of your strongest preparation in mathematics, engineering, and computation
+
+Generic messages sent to many faculty members are difficult to evaluate. A short, specific message that demonstrates familiarity with our work is much more useful.
+
+The availability of Ph.D. openings and funded research assistantships varies by year and by project. Strong applicants are encouraged to apply to the CMU program even if a specific opening is not advertised on this page.
+
+## M.S. students
+
+CMU M.S. students may become involved through research projects, independent studies, or thesis work when a suitable project and advising capacity are available. Students should normally complete relevant foundational coursework and demonstrate strong computational ability before beginning a substantial research project.
+
+When contacting Prof. Kara, include your CV, transcript, program and expected graduation date, relevant courses, and a concise description of the research problem you would like to investigate. It is helpful to include examples of previous technical work.
+
+## Undergraduate students
+
+We welcome inquiries from motivated CMU undergraduate students. Undergraduate research projects are most successful when students can commit consistent time over more than one semester and have completed foundational courses in programming, mathematics, mechanics, design, or machine learning.
+
+Undergraduate students should send a short statement of interest, a résumé, an unofficial transcript, and an indication of their expected weekly availability. Prior research experience is helpful but not required for every project.
+
+## Preparation
+
+Applicants do not need to be experts in every area listed below. However, strong preparation in several of these subjects is important:
+
+### Foundations
+
+- Linear algebra and vector calculus
+- Numerical methods
+- Probability and statistics
+- Engineering mechanics or another substantive application area
+- Data structures and algorithms
+
+### Computation
+
+- Python and scientific-computing tools
+- C/C++ or another compiled scientific-programming language
+- Version control and reproducible computational workflows
+- Experience implementing, testing, and documenting nontrivial algorithms
+
+### Relevant advanced areas
+
+- Machine learning and deep learning
 - Optimization
-- Finite element analysis
-- Physics simulations
-- Computer graphics
-- Geometric 3D modeling
+- Finite-element analysis and physics simulation
+- Computer graphics and geometric modeling
 - Computer vision
+- Additive manufacturing and process monitoring
+- Natural-language processing and large language models
 
-### Graduate Students and Post-Docs
+Demonstrated depth in a smaller number of areas is generally more valuable than superficial familiarity with all of them.
 
-Candidates must be **demonstrably proficient** in oral and written communication (prior publications, presentations etc.).
+## Recommended CMU courses
 
-If you are interested in joining, please contact Prof. Kara with your CV. We strongly encourage you to apply if you have prior research experience (and ideally publications) in the above or related fields. 
+The appropriate course plan depends on the student's background and project. Courses that have supported VDEL research include:
 
-**Graduate student applicants:** In addition to sending your CV to Prof. Kara, please visit the [Graduate Admission site](https://www.meche.engineering.cmu.edu/education/graduate-programs/admission/index.html) for more info and to access the application portal.
+| Course | Subject |
+|:--|:--|
+| 24-787 | Machine Learning and Artificial Intelligence for Engineers |
+| 24-788 | Machine Learning and Artificial Intelligence for Engineers — Project |
+| 10-601 / 10-701 | Introduction to Machine Learning |
+| 11-785 | Introduction to Deep Learning |
+| 24-785 | Engineering Optimization |
+| 10-725 | Convex Optimization |
+| 16-720 | Computer Vision |
+| 24-771 | Linear Systems |
+| 24-780 | Engineering Computation |
+| 24-755 | Finite Element Method in Mechanics I |
+| 24-703 | Numerical Methods in Engineering |
+| 15-462 / 15-662 | Computer Graphics |
+| 15-351 / 15-650 | Algorithms and Advanced Data Structures |
 
+Course numbers and offerings may change. Students should consult the current CMU Schedule of Classes and discuss their plans with their academic and research advisors.
 
-### Undergraduate Students
+## What to expect from research in VDEL
 
-Research positions in the above areas are available for highly motivated and capable undergraduate students. Please contact Prof. Kara to set up a meeting.
+VDEL projects generally require students to move between theory, software implementation, experimentation, and technical communication. Researchers are expected to engage deeply with the relevant literature, build reliable computational systems, evaluate results carefully, document their work, and contribute constructively to the laboratory community.
 
-### What courses should I take after joining CMU?
-
-We strongly recommend the following courses in support of your research projects. The course descriptions and schedules can be found on the [Schedule of Classes page](https://enr-apps.as.cmu.edu/open/SOC/SOCServlet).
-
-
-
-| 24787 | &nbsp; &nbsp; &nbsp;| Machine Learning and Artificial Intelligence for Engineers           |
-| 24788 | &nbsp; &nbsp; &nbsp;| Machine Learning and Artificial Intelligence for Engineers - Project |
-| 10601/701    |  &nbsp; &nbsp; &nbsp;|     Introduction to Machine Learning           |
-|  11785      |  &nbsp; &nbsp; &nbsp;|     Introduction to Deep Learning                  |
-| 10703 | &nbsp; &nbsp; &nbsp;|  Deep Reinforcement Learning and Control| 
-| 24785 | &nbsp; &nbsp; &nbsp;|  Engineering Optimization| 
-| 10725 | &nbsp; &nbsp; &nbsp;|  Convex Optimization| 
-| 16720 | &nbsp; &nbsp; &nbsp;|  Computer Vision    (good for deep understanding of convolutional neural network)| 
-| 24771 | &nbsp; &nbsp; &nbsp;|  Linear System (Advanced linear algebra; count towards math requirement)| 
-| 24780 | &nbsp; &nbsp; &nbsp;|  Engineering Computation (C++ / Fundamental coding skill)| 
-| 24755 | &nbsp; &nbsp; &nbsp;|  Finite Element Method in Mechanics I (computational solid mechanics)| 
-| 24703 | &nbsp; &nbsp; &nbsp;|  Numerical Methods in Engineering (fundamentals in numerical calculation) | 
-| 15462/662 | &nbsp; &nbsp; &nbsp;|  Computer Graphics| 
-| 15351/650 | &nbsp; &nbsp; &nbsp;|  Algorithms and Advanced Data Structures (theory)| 
-|  | &nbsp; &nbsp; &nbsp;|  | 
-|  | &nbsp; &nbsp; &nbsp;|  | 
-
+In return, students receive close intellectual engagement, opportunities to collaborate across disciplines, and experience pursuing research questions from initial formulation through publication and practical demonstration.
