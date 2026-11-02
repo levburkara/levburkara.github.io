@@ -6,34 +6,6 @@ sitemap: true
 permalink: /publications/
 ---
 
-<style>
-  .bibbase_icon {
-    display: none !important;
-  }
-  .selected-publication {
-    min-height: 485px;
-  }
-  .selected-publication img {
-    float: none !important;
-    width: 100%;
-    height: 190px;
-    object-fit: contain;
-    margin: 0 0 16px 0 !important;
-    border-radius: 3px !important;
-    box-shadow: none !important;
-  }
-  .selected-publication h3 {
-    font-size: 20px;
-    margin-top: 4px;
-  }
-  .publication-links {
-    margin-bottom: 0;
-  }
-  .foundational-work li {
-    margin-bottom: 10px;
-  }
-</style>
-
 # Publications
 
 VDEL's publications span computational design, geometric modeling, artificial intelligence, engineering analysis, manufacturing, and multidisciplinary applications. The selections below trace the development of the laboratory's research—from human-centered geometric modeling and learned shape representations to generative design, scientific machine learning, intelligent manufacturing, and engineering-focused AI.
