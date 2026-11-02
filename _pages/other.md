@@ -2,7 +2,7 @@
 title: "Visual Design and Engineering Lab - Other"
 layout: gridlay
 excerpt: "Other"
-sitemap: false
+sitemap: true
 permalink: /other/
 ---
 
