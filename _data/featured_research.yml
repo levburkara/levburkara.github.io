@@ -1,56 +1,61 @@
-# Six homepage slots. To replace a paper, edit only its block below.
-# Image files go in images/featured/. No image renaming is necessary.
+# Edit the paper under SLOT 1-6 to replace a homepage card.
+# Add its image to images/featured/ without renaming any other images.
 
 # SLOT 1
 - slot: 1
-  title: "GeoPep"
-  subtitle: "Predicting where peptides bind to proteins"
-  description: "A geometry-aware foundation model identifies peptide binding sites from molecular sequences."
+  title: GeoPep
+  subtitle: Predicting where peptides bind to proteins
+  description: A geometry-aware foundation model identifies peptide binding sites from molecular sequences.
   image: geopep-interface.jpg
-  journal: "Journal of Chemical Information and Modeling · 2026"
+  journal: Journal of Chemical Information and Modeling · 2026
   url: https://doi.org/10.1021/acs.jcim.6c00187
 
 # SLOT 2
 - slot: 2
-  title: "FLARE"
-  subtitle: "Scaling AI models to million-point simulations"
-  description: "Low-rank attention enables learning from large-scale engineering meshes."
+  title: FLARE
+  subtitle: Scaling AI models to million-point simulations
+  description: Low-rank attention enables learning from large-scale engineering meshes.
   image: flare-physical-fields.jpg
-  journal: "Transactions on Machine Learning Research · 2026"
+  journal: Transactions on Machine Learning Research · 2026
   url: https://openreview.net/forum?id=zjTqjNr76I
 
 # SLOT 3
 - slot: 3
-  title: "GeoPep"
-  subtitle: "Understanding molecular interfaces with AI"
-  description: "Combining protein foundation models and geometric constraints for coherent binding predictions."
-  image: geopep-overview.jpg
-  journal: "Journal of Chemical Information and Modeling · 2026"
-  url: https://doi.org/10.1021/acs.jcim.6c00187
+  title: Generative Manufacturing
+  subtitle: Designing parts around manufacturing resources
+  description: A framework jointly considers engineering requirements, costs, lead times, and supplier capabilities
+    when generating parts.
+  image: generative-manufacturing-2025.jpg
+  journal: Computers in Industry · 2025
+  url: https://doi.org/10.1016/j.compind.2025.104286
 
 # SLOT 4
 - slot: 4
-  title: "FLARE"
-  subtitle: "Learning physical fields on complex geometries"
-  description: "Neural surrogates predict physical responses on irregular engineering domains."
-  image: flare-architecture.jpg
-  journal: "Transactions on Machine Learning Research · 2026"
-  url: https://openreview.net/forum?id=zjTqjNr76I
+  title: Design for Machinability
+  subtitle: Optimizing parts for efficient milling
+  description: Neural implicit fields produce structurally efficient parts with surfaces better suited to subtractive
+    machining.
+  image: machinability-neural-fields-2026.jpg
+  journal: ACM Transactions on Graphics · 2026
+  url: https://doi.org/10.1145/3847303
 
 # SLOT 5
 - slot: 5
-  title: "GeoPep"
-  subtitle: "Geometry-aware prediction for biomolecular design"
-  description: "Identifying localized interaction sites to support computational studies of peptide recognition."
-  image: geopep-predictions.jpg
-  journal: "Journal of Chemical Information and Modeling · 2026"
-  url: https://doi.org/10.1021/acs.jcim.6c00187
+  title: Multiscale Topology Optimization
+  subtitle: Designing connected microstructures with neural networks
+  description: A continuous neural representation optimizes spatially varying microstructures while maintaining
+    connections between neighboring cells.
+  image: multiscale-neural-topology-2025.jpg
+  journal: Engineering with Computers · 2025
+  url: https://doi.org/10.1007/s00366-025-02156-6
 
 # SLOT 6
 - slot: 6
-  title: "FLARE"
-  subtitle: "Faster transformer-based engineering simulation"
-  description: "Efficient low-rank attention supports scalable learning for scientific computing."
-  image: flare-performance.jpg
-  journal: "Transactions on Machine Learning Research · 2026"
-  url: https://openreview.net/forum?id=zjTqjNr76I
+  title: VIRL
+  subtitle: Predicting manufacturability with limited training data
+  description: Self-supervised learning from CAD geometry improves estimates of machining time, printing time, stress,
+    and build risks.
+  image: virl-manufacturability-2026.jpg
+  journal: Journal of Intelligent Manufacturing · 2026
+  url: https://doi.org/10.1007/s10845-025-02575-8
+
