@@ -1,0 +1,103 @@
+- title: Stress Field Prediction in Cantilevered Structures Using Convolutional Neural Networks
+  image: zhenguo2019idetcstressnet.png
+  description: We present a deep learning method for fast predictions of the stress fields generated in cantilevered structures subject to external forces.
+  authors: Zhenguo Nie; Haoliang Jiang; and Levent Burak Kara
+  highlight: 1
+  link:
+    url: https://bibbase.org/network/publication/nie-jiang-kara-stressfieldpredictionincantileveredstructuresusingconvolutionalneuralnetworks-2019
+    display: Journal of Computing and Information Science in Engineering, (2019)
+  news2: 
+
+- title: A Deep Reinforcement Learning Approach For Global Routing
+  image: liao2019jmdglobalrouting.png
+  description: We present a deep reinforcement learning method for solving the global routing problem.
+  authors: Haiguang Liao; Wentai Zhang ; Xuliang Dong; Barnabas Poczos; Kenji Shimada; and Levent Burak Kara
+  highlight: 1
+  link:
+    url: https://bibbase.org/network/publication/liao-zhang-poczos-shimada-kara-adeepreinforcementlearningapproachforglobalrouting-2019
+    display: Journal of Mechanical Design, (2019)
+  news2: 
+
+- title: Structural Design Using Laplacian Shells
+  image: erva2019sgp.png
+  description: We present a method for designing lightweight shell structures that are durable under the external forces that the objects experience during their use.
+  authors: Erva Ulu; James McCann; and Levent Burak Kara
+  highlight: 1
+  link:
+    url: https://bibbase.org/network/publication/ulu-mccann-kara-structuraldesignusinglaplacianshells-2019
+    display: Computer Graphics Forum, (2019)
+  news2: See also the <a href="https://www.youtube.com/watch?v=afVhbMicGwk"> video</a>
+
+- title: Concurrent Structure and Process Optimization for Minimum Cost Metal Additive Manufacturing
+  image: ulu2018concurrent.png
+  description:
+    We develop a design for 3D AM algorithm that minimizes the overall cost of parts production through structural and process parameter optimization.
+  authors: Erva Ulu; Runze Huang; Levent Burak Kara; and Kate S. Whitefoot
+  highlight: 1
+  link:
+    url: https://bibbase.org/network/publication/ulu-huang-kara-whitefoot-concurrentstructureandprocessoptimizationforminimumcostmetaladditivemanufacturing-2018
+    display: Journal of Mechanical Design, (2019)
+  news2: See also <a href="https://phys.org/news/2019-03-lightening-the-load.html"> Phys.org </a> and <a href="https://www.cmu.edu/news/stories/archives/2019/january/lightening-the-load.html"> CMU</a>
+
+
+- title: 3D Shape Synthesis for Conceptual Design and Optimization Using Variational Autoencoders
+  image: zhang2019idetcacd.png
+  description: We present a data-driven 3D shape design method that can learn a generative model from a corpus of existing designs, and use this model to produce a wide range of new designs.
+  authors: Wentai Zhang; Zhangsihao Yang; Haoliang Jiang; Suyash Nigam; Soji Yamakawa; Tomotake Furuhata; Kenji Shimada; and Levent Burak Kara
+  highlight: 1
+  link:
+    url: https://bibbase.org/network/publication/zhang-yang-jiang-nigam-yamakawa-furuhata-shimada-kara-3dshapesynthesisforconceptualdesignandoptimizationusingvariationalautoencoders-2019
+    display: ASME International Design Engineering Technical Conferences, (2019)
+  news2: 
+
+
+- title: Data-driven Upsampling of Point Clouds
+  image: zhang2019cadpointcloudupsampling.png
+  description: We present a data-driven point cloud upsamling algorithm using a deep learning architecture.
+  authors: Wentai Zhang; Haoliang Jiang; Zhangsihao Yang; Soji Yamakawa; Kenji Shimada; and Levent Burak Kara
+  highlight: 1
+  link:
+    url: https://bibbase.org/network/publication/zhang-jiang-yang-yamakawa-shimada-kara-datadrivenupsamplingofpointclouds-2019
+    display: Computer-Aided Design, (2019)
+  news2: 
+
+- title: Prediction of Nitrogen Concentration In Fuel Cells Using Data-driven Modeling
+  image: tong2019idetcfc.png
+  description: We present and compare a set of machine learning methods for predicting nitrogen concentration in proton exchange membrane fuel cells (PEMFCs).
+  authors: Tong Lin; Leiming Hu; Shawn Litster; and Levent Burak Kara
+  highlight: 1
+  link:
+    url: https://bibbase.org/network/publication/lin-hu-litster-kara-predictionofnitrogenconcentrationinfuelcellsusingdatadrivenmodeling-2019
+    display: ASME International Design Engineering Technical Conferences, (2019)
+  news2: 
+
+- title: Lightweight Structure Design Under Force Location Uncertainty
+  image: ulu2017lightweight.png
+  description: We develop a new toplogy optimization method particularly useful in the presence of moving loads.
+  authors: Erva Ulu; James McCann; and Levent Burak Kara
+  highlight: 1
+  link:
+    url: https://bibbase.org/network/publication/ulu-mccann-kara-lightweightstructuredesignunderforcelocationuncertainty-2017
+    display: ACM Transactions on Graphics (SIGGRAPH), (2017)
+  news2: See also the <a href="https://youtu.be/ozIBFOr-Djc"> video</a> and highlights at <a href="https://phys.org/news/2017-09-lighter-weights-additive.html"> Phys.org </a> and <a href="https://engineering.cmu.edu/news-events/news/2017/09/27-kara-additive-manufacturing.html"> CMU</a>
+
+- title: Reconstruction of a Deformed Tumor Based on Fiducial Marker Registration - A Computational Feasibility Study
+  image: yehan2018tcrt.png
+  description: We present a fast computational algorithm for predicting soft tissue deformations using a set of fiducial markers.
+  authors: Ye Han; Emily Oakley; Gal Shafirstein; Yoed Rabin; and Levent Burak Kara
+  highlight: 1
+  link:
+    url: https://bibbase.org/network/publication/han-oakley-shafirstein-rabin-kara-reconstructionofadeformedtumorbasedonfiducialmarkerregistrationacomputationalfeasibilitystudy-2018
+    display: Technology in Cancer Research & Treatment, (2018)
+  news2: 
+
+- title: Designing coupling behaviors using compliant shape optimization
+  image: ulu2018designing.png
+  description: We introduce a method for designing coupling behaviors between an arbitrary compliant structure and an arbitrary rigid object. Resulting structures exhibit the desired coupling behavior such as ease of engagement-disengagement and grip.
+  authors: Nurcan Gecer Uu; Stelian Coros; and Levent Burak Kara
+  highlight: 1
+  link:
+    url: https://bibbase.org/network/publication/uu-coros-kara-designingcouplingbehaviorsusingcompliantshapeoptimization-2018
+    display: Computer-Aided Design, (2018)
+  news2: 
+
