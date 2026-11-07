@@ -6,159 +6,30 @@ sitemap: true
 permalink: /
 ---
 
-We are a dynamic research group at the [Mechanical Engineering Department](https://www.meche.engineering.cmu.edu) at [Carnegie Mellon University](https://www.cmu.edu). Our research develops novel AI and machine learning approaches for engineering design, simulation, and manufacturing. By integrating generative models, state-of-the-art learning paradigms, and real-time sensing, we aim to enable faster, more accurate, and more resilient engineering systems. Our focus is on technologies that improve design, process monitoring, manufacturability, performance, and overall innovation in a wide range of industries.  
-
-<!-- Our aim is to **develop new engineering design, analysis, and manufacturing technologies through the use of artificial intelligence, machine learning, and optimization**. -->
-
-
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
-    <!-- Menu -->
-    <ol class="carousel-indicators">
-        <li data-target="#carousel" data-slide-to="0" class="active"></li>
-        <li data-target="#carousel" data-slide-to="1"></li>
-        <li data-target="#carousel" data-slide-to="2"></li>
-        <li data-target="#carousel" data-slide-to="3"></li>
-        <li data-target="#carousel" data-slide-to="4"></li>
-        <li data-target="#carousel" data-slide-to="5"></li>
-        <li data-target="#carousel" data-slide-to="6"></li>
-        <li data-target="#carousel" data-slide-to="7"></li>
-        <li data-target="#carousel" data-slide-to="8"></li>
-    </ol>
-
-    <div class="carousel-inner" markdown="0">
-        <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homeslider/Chen2025multiscale.png" alt="Slide 1" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homeslider/chenyuhsuanbignet2024jmd.png" alt="Slide 2" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homeslider/chenyuhsuanvirl2025jim.png" alt="Slide 3" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homeslider/liu2026aeroacousticsignaturesrevealfast.png" alt="Slide 4" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homeslider/liuhaolin2024am.png" alt="Slide 5" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homeslider/puri2026flarefastlowrankattention.png" alt="Slide 6" />
-        </div>       
-         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homeslider/emerson2025livermodel.png" alt="Slide 7" />
-        </div>
-          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homeslider/ferguson2024jamfieldpred.png" alt="Slide 8" />
-        </div>
-          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homeslider/ferguson2024topagnostic.png" alt="Slide 9" />
-        </div>
-    </div>
-
-
-  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
-    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
-    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
+<div class="vdel-intro">
+  <p class="vdel-kicker">Carnegie Mellon University · Mechanical Engineering</p>
+  <h1>Artificial intelligence for engineering design and discovery.</h1>
+  <p>At the Visual Design and Engineering Laboratory, we develop computational methods for understanding, designing, and improving engineered systems. Our work brings together artificial intelligence, geometric modeling, simulation, optimization, and manufacturing.</p>
+  <p class="vdel-intro-links"><a href="{{ '/research/' | relative_url }}">Our research</a> <span aria-hidden="true">·</span> <a href="{{ '/team/' | relative_url }}">Meet the team</a> <span aria-hidden="true">·</span> <a href="{{ '/join/' | relative_url }}">Join VDEL</a></p>
 </div>
 
-
-To this end, our research focuses on generating new algorithmic and methodological knowledge, all demonstrated and validated through computational software. Our research projects are centered around the following core foundations and applications:
-
-<!-- 
-* AI / ML
-  * Regression
-  * Deep Learning
-  * Generative AI
-* Geometric Modeling
-  * Shape Modeling
-  * Shape Processing
-* Analysis and Synthesis
-  * Optimization 
-  * Generative Design 
-  * Solid mechanics
-  * Physics Simulations
-  * FEA/meshing  -->
-
-
-<table>
-  <tbody>
-    <tr>
-      <th align="left">Core Foundations</th>
-      <th align="left">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</th>
-      <th align="left">Applications</th>
-    </tr>
-    <tr>
-      <td align="left">
-        <ul>
-          <li>AI / ML
-            <ul>
-              <li>Regression</li>
-              <li>Deep Learning</li>
-              <li>Generative AI</li>
-            </ul>
-          </li>
-          <li>Engineering Analysis and Synthesis
-            <ul>
-              <li>Optimization</li>
-              <li>Generative Design</li>
-              <li>Solid Mechanics</li>
-              <li>Physics Simulations</li>
-              <li>FEA / Meshing</li>
-            </ul>
-          </li>
-          <li>Geometric Modeling
-            <ul>
-              <li>Shape Modeling</li>
-              <li>Shape Processing</li>
-            </ul>
-          </li>
-        </ul>
-      </td>
-      <td align="left">
-        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-      </td>
-      <td style="text-align:left;vertical-align:top"> 
-        <ul>
-          <li>CAD / Shape Design</li>
-          <li>Topology Optimization</li>
-          <li>Additive Manufacturing</li>
-          <li>Design Theory and Methodology</li>
-          <li>Integrated Circuit Design</li>
-          <li>Bio-engineering</li>
-          <li>Fuel Cell Design</li>
-          <li>Air Quality Monitoring</li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<br /> 
-
-<!-- 
-The Word Cloud from our publications (2014-2019):
-
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/wordcloudpic/wordcloud.png" width="100%" style="border:1px solid">
-</figure>
- -->
-
-<!-- <img src="{{ site.url }}{{ site.baseurl }}/images/worldcloudpic/wordcloud.png" alt="wordcloud" style="border:5px solid"> -->
-
-
-<!-- To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
-
-
-
-We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl). -->
-
-<!--<br /> 
-
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/join) **!** -->
-
-
+<section class="featured-research" aria-labelledby="featured-heading">
+  <div class="vdel-section-heading">
+    <h2 id="featured-heading">Featured Research</h2>
+    <p>Selected recent papers</p>
+  </div>
+  <div class="vdel-paper-grid">
+    {% for paper in site.data.featured_research %}
+    <a class="vdel-paper-card" href="{{ paper.url }}" target="_blank" rel="noopener noreferrer" aria-label="Read {{ paper.title | escape }}: {{ paper.subtitle | escape }}">
+      <div class="vdel-paper-figure"><img src="{{ '/images/featured/' | append: paper.image | relative_url }}" alt="Research figure for {{ paper.title | escape }}" loading="lazy"></div>
+      <div class="vdel-paper-info">
+        <div class="vdel-paper-name">{{ paper.title }}</div>
+        <h3>{{ paper.subtitle }}</h3>
+        <p>{{ paper.description }}</p>
+        <div class="vdel-paper-journal">{{ paper.journal }} <span aria-hidden="true">↗</span></div>
+      </div>
+    </a>
+    {% endfor %}
+  </div>
+  <p class="vdel-more-papers"><a href="{{ '/publications/' | relative_url }}">View all publications →</a></p>
+</section>
