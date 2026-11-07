@@ -8,13 +8,13 @@ permalink: /publications/
 
 # Publications
 
-VDEL's publications span computational design, geometric modeling, artificial intelligence, engineering analysis, manufacturing, and multidisciplinary applications. The selections below trace the development of the laboratory's research—from human-centered geometric modeling and learned shape representations to generative design, scientific machine learning, intelligent manufacturing, and engineering-focused AI.
+Our publications span computational design, geometric modeling, artificial intelligence, engineering analysis, manufacturing, and multidisciplinary applications. The selections below highlight the development of the laboratory's research—from human-centered geometric modeling and learned shape representations to generative design, scientific machine learning, intelligent manufacturing, and engineering-focused AI.
 
 For citation counts and author profiles, see [Google Scholar](https://scholar.google.com/citations?user=_X2eOeQAAAAJ&hl=en), [ORCID](https://orcid.org/0000-0002-2203-4020), and [ResearchGate](https://www.researchgate.net/profile/Levent-Kara). Preprints may be requested by [email](mailto:lkara@cmu.edu).
 
 ## Foundational work in geometric modeling
 
-The laboratory's current work in engineering AI builds on a long-running program in geometric representation and interaction. Representative contributions include:
+Our current work in engineering AI builds on a long-running program in geometric representation and interaction. Our representative contributions include:
 
 <ul class="foundational-work">
   <li><a href="https://doi.org/10.1145/1128888.1128909"><strong>Pen-based styling design of 3D geometry using concept sketches and template models</strong></a><br />ACM Solid and Physical Modeling, 2006</li>
