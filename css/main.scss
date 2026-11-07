@@ -376,3 +376,97 @@ a.vdel-paper-card:hover, a.vdel-paper-card:focus { color: #28333e; text-decorati
 .vdel-news-date { color: #7c1820; font-size: 13px; font-weight: 600; margin-bottom: 7px; }
 @media (max-width: 991px) { .vdel-paper-grid { grid-template-columns: repeat(2,minmax(0,1fr)); } }
 @media (max-width: 767px) { .vdel-intro { padding-top: 12px; } .vdel-paper-grid, .vdel-news-list { grid-template-columns: 1fr; } .vdel-section-heading { align-items: flex-start; flex-direction: column; gap: 6px; } #homeid .vdel-intro h1 { font-size: 30px; } .vdel-intro > p:not(.vdel-kicker):not(.vdel-intro-links) { font-size: 16px; } }
+
+
+/* Unified VDEL typography and navigation (November 2026) */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+  color: #202b36;
+  padding-top: 90px;
+}
+h1, h2, h3, h4, h5, h6 { font-family: inherit; }
+.vdel-site-header.navbar-default {
+  background: #fff;
+  border: 0;
+  border-bottom: 1px solid #dce4e8;
+  box-shadow: none;
+  margin-bottom: 0;
+  min-height: 76px;
+}
+.vdel-site-header .vdel-nav-inner {
+  display: block;
+  max-width: 1320px;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+.vdel-site-header .navbar-header { float: left; }
+.vdel-site-header .vdel-site-brand {
+  display: flex;
+  align-items: baseline;
+  gap: 13px;
+  height: 76px;
+  padding: 23px 0 18px;
+  line-height: 1.25;
+  color: #233747;
+  text-decoration: none;
+  white-space: nowrap;
+}
+.vdel-site-header .vdel-site-brand:hover,
+.vdel-site-header .vdel-site-brand:focus { color: #233747; text-decoration: none; }
+.vdel-brand-mark {
+  font-size: 23px;
+  font-weight: 750;
+  letter-spacing: -.7px;
+}
+.vdel-brand-name {
+  font-size: 13px;
+  font-weight: 400;
+  letter-spacing: 0;
+  color: #718493;
+}
+.vdel-site-header .navbar-nav { margin: 0; }
+.vdel-site-header .navbar-nav > li > a {
+  font-size: 13px;
+  font-weight: 500;
+  letter-spacing: .01em;
+  color: #596c7b;
+  line-height: 20px;
+  padding: 28px 11px;
+  background: transparent;
+  transition: color .15s ease;
+}
+.vdel-site-header .navbar-nav > li > a:hover,
+.vdel-site-header .navbar-nav > li > a:focus,
+.vdel-site-header .navbar-nav > .active > a,
+.vdel-site-header .navbar-nav > .active > a:hover,
+.vdel-site-header .navbar-nav > .active > a:focus {
+  background: transparent;
+  color: #236780;
+}
+.vdel-site-header .navbar-nav > .active > a { font-weight: 650; }
+.vdel-site-header .navbar-toggle {
+  border-color: #dce4e8;
+  margin-top: 20px;
+  margin-bottom: 19px;
+}
+.vdel-site-header .navbar-toggle .icon-bar { background: #506271; }
+.vdel-site-header .navbar-toggle:hover,
+.vdel-site-header .navbar-toggle:focus { background: #f3f7f8; }
+/* Preserve Bootstrap collapse as the navigation grows on narrow screens. */
+@media (max-width: 1100px) {
+  .vdel-site-header .vdel-nav-inner { padding-left: 18px; padding-right: 18px; }
+  .vdel-site-header .navbar-nav > li > a { padding-left: 8px; padding-right: 8px; }
+}
+@media (min-width: 768px) and (max-width: 930px) {
+  .vdel-brand-name { display: none; }
+}
+@media (max-width: 767px) {
+  body { padding-top: 86px; }
+  .vdel-site-header .navbar-header { float: none; }
+  .vdel-site-header .vdel-site-brand { height: 75px; padding-top: 23px; }
+  .vdel-brand-mark { font-size: 22px; }
+  .vdel-brand-name { font-size: 12px; }
+  .vdel-site-header .navbar-collapse { border-top: 1px solid #e5ebef; box-shadow: none; }
+  .vdel-site-header .navbar-nav { margin: 6px -15px 9px; }
+  .vdel-site-header .navbar-nav > li > a { padding: 11px 17px; font-size: 14px; }
+}
