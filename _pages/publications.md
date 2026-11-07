@@ -1,6 +1,6 @@
 ---
 title: "Publications | Levent Burak Kara and the Visual Design and Engineering Lab"
-layout: gridlay
+layout: publicationslay
 excerpt: "Selected and complete publications from the Visual Design and Engineering Laboratory at Carnegie Mellon University."
 sitemap: true
 permalink: /publications/
