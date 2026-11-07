@@ -538,3 +538,143 @@ h1, h2, h3, h4, h5, h6 { font-family: inherit; }
   #textid.vdel-research-page > h2 { margin-top: 36px; padding-top: 22px; }
   #textid.vdel-research-page > p { font-size: 15px; line-height: 1.7; }
 }
+
+/* Publications page: same visual vocabulary as the new VDEL homepage. */
+#gridid.vdel-publications-page {
+  padding-top: 18px;
+  padding-bottom: 12px;
+  color: #283744;
+}
+#gridid.vdel-publications-page > h1 {
+  font-size: clamp(32px, 3.2vw, 42px);
+  line-height: 1.18;
+  letter-spacing: -.025em;
+  font-weight: 650;
+  color: #263642;
+  margin: 12px 0 22px;
+}
+#gridid.vdel-publications-page > p {
+  max-width: 88ch;
+  font-size: 16px;
+  line-height: 1.75;
+  color: #465666;
+  margin-bottom: 16px;
+}
+#gridid.vdel-publications-page > h2 {
+  font-size: clamp(23px, 2.2vw, 28px);
+  line-height: 1.3;
+  font-weight: 620;
+  letter-spacing: -.016em;
+  color: #263642;
+  margin: 46px 0 19px;
+  padding-top: 24px;
+  border-top: 1px solid #dfe6eb;
+  border-bottom: 0;
+}
+#gridid.vdel-publications-page a { color: #8b1920; text-underline-offset: 2px; }
+#gridid.vdel-publications-page a:hover,
+#gridid.vdel-publications-page a:focus { color: #611017; }
+#gridid.vdel-publications-page .foundational-work {
+  max-width: 94ch;
+  margin: 0 0 32px;
+  padding-left: 22px;
+}
+#gridid.vdel-publications-page .foundational-work li {
+  color: #526271;
+  font-size: 15px;
+  line-height: 1.65;
+  padding-left: 3px;
+  margin-bottom: 13px;
+}
+#gridid.vdel-publications-page .foundational-work li strong {
+  font-weight: 600;
+}
+/* Existing Bootstrap columns, but consistent-height cards in each row. */
+@media (min-width: 768px) {
+  #gridid.vdel-publications-page > .row {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+    margin-bottom: 0;
+  }
+  #gridid.vdel-publications-page > .row > .col-sm-6 {
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+  }
+}
+#gridid.vdel-publications-page .selected-publication {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  min-height: 0;
+  width: 100%;
+  padding: 22px;
+  margin-bottom: 24px;
+  background: #fff;
+  border: 1px solid #dfe6eb;
+  border-radius: 0;
+  box-shadow: none;
+}
+#gridid.vdel-publications-page .selected-publication img {
+  display: block;
+  float: none;
+  height: 195px;
+  width: 100%;
+  max-width: 100%;
+  object-fit: contain;
+  object-position: center;
+  padding: 3px;
+  margin: 0 0 21px !important;
+  border: 0;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+  background: #fff;
+}
+#gridid.vdel-publications-page .selected-publication h3 {
+  font-size: 21px;
+  line-height: 1.3;
+  letter-spacing: -.012em;
+  font-weight: 620;
+  color: #263642;
+  margin: 0 0 11px;
+}
+#gridid.vdel-publications-page .selected-publication p {
+  margin: 0 0 12px;
+  font-size: 14px;
+  line-height: 1.6;
+  color: #526271;
+}
+#gridid.vdel-publications-page .selected-publication p em {
+  font-size: 13px;
+  font-style: normal;
+  color: #758592;
+}
+#gridid.vdel-publications-page .selected-publication p strong {
+  font-size: 13px;
+  font-weight: 600;
+  color: #526271;
+}
+#gridid.vdel-publications-page .selected-publication .publication-links {
+  margin-top: auto;
+  padding-top: 13px;
+  border-top: 1px solid #edf0f2;
+  font-weight: 600;
+}
+/* The complete bibliography is rendered by BibBase; keep this light-touch. */
+#gridid.vdel-publications-page .bibbase_group {
+  margin-top: 28px;
+  padding-top: 10px;
+}
+#gridid.vdel-publications-page .bibbase_paper {
+  margin-bottom: 14px;
+  line-height: 1.55;
+  overflow-wrap: anywhere;
+}
+@media (max-width: 767px) {
+  #gridid.vdel-publications-page { padding-top: 2px; }
+  #gridid.vdel-publications-page > p { font-size: 15px; line-height: 1.7; }
+  #gridid.vdel-publications-page > h2 { margin-top: 36px; padding-top: 22px; }
+  #gridid.vdel-publications-page .selected-publication { padding: 17px; }
+  #gridid.vdel-publications-page .selected-publication img { height: auto; max-height: 220px; }
+}
