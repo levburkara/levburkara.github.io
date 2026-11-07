@@ -1,0 +1,45 @@
+VDEL COMPLETE REPLACEMENT WEBSITE — 2026-11-06
+
+This is the COMPLETE Jekyll SOURCE SITE, not a small patch. It is based on the
+full-site ZIP that you uploaded most recently. It includes research, teaching,
+publications, team, join, funding, news, data, PDFs, images, CSS, and layouts.
+
+INSTALL SAFELY
+1. Download and retain a backup of your current GitHub repository.
+2. Extract this ZIP locally. Its root contains _config.yml, _pages, _includes,
+   _layouts, _data, images, css, etc.
+3. Do not remove your GitHub repository itself, its Settings, or its Pages
+   configuration. Replace repository CONTENTS instead. If working with git,
+   remove tracked files first while retaining .git, then copy all extracted
+   source files into the repository root. Commit and push.
+4. Confirm GitHub Actions/Pages deployment succeeds, then refresh the homepage.
+5. If the old site remains visible, verify Settings > Pages source (branch and
+   folder), and that you uploaded to that exact branch.
+
+HOMEPAGE
+- _pages/home.html is the ONLY homepage page (no home.md).
+- _includes/featured_home.html defines the six-card HTML structure.
+- _data/featured_research.yml defines the six numbered slots.
+- images/featured/ contains the six card figures.
+- _layouts/homelay.html places News beneath the cards.
+- css/main.scss supplies site-wide widths and grid/card styles.
+- _includes/head.html contains one stylesheet reference with a cache version.
+
+HOW TO SWAP PAPER IN SLOT 3
+1. Put a JPG/PNG image in images/featured/, with a descriptive filename.
+2. Edit SLOT 3 in _data/featured_research.yml (title, subtitle,
+   description, journal, url, image). Do not rename other images.
+3. Commit the two changes. No HTML editing is needed.
+
+CLEANUP
+Removed Apple resource/DS_Store files, old numbered carousel images,
+unused blank carousel template, redundant SCSS copy, and an unused News sidebar
+include. Other historical assets are deliberately retained if used by a page,
+or their usage could not safely be excluded.
+
+VALIDATION
+- All six YAML slots parsed and all six card image paths exist.
+- No duplicate home.md exists.
+- Native HTML homepage removes Markdown parsing from the card wrapper.
+- A full Jekyll build was not possible here because the Jekyll Ruby gem is not
+  installed in the execution environment; final deployment must be verified.

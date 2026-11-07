@@ -1,0 +1,19 @@
+.DS_Store
+_data/.DS_Store
+_includes/.DS_Store
+_includes/news.html
+_pages/.DS_Store
+_sass/.DS_Store
+_sass/bootstrap/_variables copy.scss
+images/.DS_Store
+images/homeslider/.DS_Store
+images/homeslider/old
+images/homeslider/template3000x1500.png
+images/logopic/.DS_Store
+images/newspic/.DS_Store
+images/picpic/.DS_Store
+images/picpic/Gallery/.DS_Store
+images/pubpic/.DS_Store
+images/respic/.DS_Store
+images/teampic/.DS_Store
+images/wordcloudpic/.DS_Store
