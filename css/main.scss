@@ -678,3 +678,107 @@ h1, h2, h3, h4, h5, h6 { font-family: inherit; }
   #gridid.vdel-publications-page .selected-publication { padding: 17px; }
   #gridid.vdel-publications-page .selected-publication img { height: auto; max-height: 220px; }
 }
+
+
+/* News entries: optional image, summary and external link.
+   Works with headline-only entries and both the homepage and All News page. */
+#homeid .vdel-news-item,
+.vdel-all-news .vdel-news-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 16px;
+  min-width: 0;
+}
+#homeid .vdel-news-item .vdel-news-image,
+.vdel-all-news .vdel-news-item .vdel-news-image {
+  display: block;
+  flex: 0 0 128px;
+  width: 128px;
+  min-width: 128px;
+  max-width: 128px;
+  height: 96px;
+  overflow: hidden;
+  border: 1px solid #e2e8eb;
+  background: #f8fafb;
+  text-decoration: none;
+}
+#homeid .vdel-news-item .vdel-news-image img,
+.vdel-all-news .vdel-news-item .vdel-news-image img {
+  display: block;
+  width: 128px;
+  max-width: 128px;
+  height: 96px;
+  max-height: 96px;
+  margin: 0;
+  padding: 0;
+  border-radius: 0;
+  box-shadow: none;
+  object-fit: cover;
+}
+#homeid .vdel-news-content,
+.vdel-all-news .vdel-news-content {
+  flex: 1 1 auto;
+  min-width: 0;
+  overflow-wrap: anywhere;
+}
+#homeid .vdel-news-title,
+.vdel-all-news .vdel-news-title {
+  margin: 0;
+  color: #293a48;
+  font-size: 15px;
+  line-height: 1.5;
+  font-weight: 500;
+}
+#homeid .vdel-news-title a,
+.vdel-all-news .vdel-news-title a {
+  color: #263c4c;
+  text-decoration: none;
+}
+#homeid .vdel-news-title a:hover,
+.vdel-all-news .vdel-news-title a:hover {
+  color: #7c1820;
+  text-decoration: underline;
+}
+#homeid .vdel-news-summary,
+.vdel-all-news .vdel-news-summary {
+  color: #536575;
+  font-size: 13px;
+  line-height: 1.55;
+  margin: 6px 0 0;
+}
+.vdel-news-action {
+  display: inline-block;
+  color: #7c1820;
+  font-size: 12px;
+  font-weight: 600;
+  margin-top: 8px;
+}
+.vdel-news-action:hover {
+  color: #7c1820;
+  text-decoration: underline;
+}
+.vdel-all-news { max-width: 900px; margin: 20px 0 40px; }
+.vdel-all-news .vdel-news-item {
+  padding: 20px 0;
+  border-bottom: 1px solid #e6e9ec;
+}
+.vdel-all-news .vdel-news-date { margin-bottom: 5px; }
+@media (max-width: 460px) {
+  #homeid .vdel-news-item,
+  .vdel-all-news .vdel-news-item { gap: 12px; }
+  #homeid .vdel-news-item .vdel-news-image,
+  .vdel-all-news .vdel-news-item .vdel-news-image {
+    flex-basis: 100px;
+    width: 100px;
+    min-width: 100px;
+    max-width: 100px;
+    height: 75px;
+  }
+  #homeid .vdel-news-item .vdel-news-image img,
+  .vdel-all-news .vdel-news-item .vdel-news-image img {
+    width: 100px;
+    max-width: 100px;
+    height: 75px;
+    max-height: 75px;
+  }
+}
