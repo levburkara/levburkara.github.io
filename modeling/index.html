@@ -1,0 +1,37 @@
+---
+layout: default
+title: "Scale Modeling | Levent Burak Kara"
+permalink: /modeling/
+---
+<link rel="stylesheet" href="{{ '/modeling/modeling.css' | relative_url }}">
+<section class="col-sm-12 modeling-root" id="modeling-app">
+  <div class="modeling-heading">
+    <p class="modeling-kicker">A personal collection</p>
+    <h1>Scale Modeling</h1>
+    <p class="modeling-intro">A collection of scale models and photographs from the workshop. <!-- Replace this sentence with your own introduction whenever you like. --></p>
+  </div>
+  <div id="modeling-index" class="modeling-view">
+    <div class="modeling-grid" id="modeling-cards"></div>
+    <p class="modeling-empty" id="modeling-empty" hidden>No model photographs have been found yet. Add a dated model folder with a <code>studio/cover.jpeg</code> image.</p>
+  </div>
+  <div id="modeling-detail" class="modeling-view" hidden>
+    <a class="modeling-back" href="{{ '/modeling/' | relative_url }}" id="modeling-back">&larr; All models</a>
+    <h2 id="modeling-model-title"></h2>
+    <section class="modeling-photo-section" id="modeling-studio-section"><h3>Studio</h3><div class="modeling-photos" id="modeling-studio"></div></section>
+    <section class="modeling-photo-section" id="modeling-wip-section"><h3>Work in progress</h3><div class="modeling-photos" id="modeling-wip"></div></section>
+  </div>
+  <div class="modeling-lightbox" id="modeling-lightbox" hidden role="dialog" aria-modal="true" aria-label="Photo viewer" tabindex="-1">
+    <button type="button" class="modeling-lightbox-close" id="modeling-close" aria-label="Close photo viewer">&times;</button>
+    <button type="button" class="modeling-lightbox-prev" id="modeling-prev" aria-label="Previous photograph">&#8249;</button>
+    <img id="modeling-large-image" alt="Enlarged model photograph">
+    <button type="button" class="modeling-lightbox-next" id="modeling-next" aria-label="Next photograph">&#8250;</button>
+    <div class="modeling-lightbox-counter" id="modeling-counter"></div>
+  </div>
+</section>
+<script id="modeling-photo-manifest" type="application/json">[
+{%- assign modeling_files = site.static_files | where_exp: 'f', 'f.path contains "/modeling/"' -%}
+{%- for f in modeling_files -%}
+{{ f.path | relative_url | jsonify }}{% unless forloop.last %},{% endunless %}
+{%- endfor -%}
+]</script>
+<script defer src="{{ '/modeling/gallery.js' | relative_url }}"></script>
