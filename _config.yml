@@ -15,6 +15,16 @@ author:
   title: "Professor of Mechanical Engineering"
   institution: "Carnegie Mellon University"
 
+social_image: "/images/featured/geopep-interface.jpg"
+
+exclude:
+  - INSTALLATION.md
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+  - tools
+
 include:
   - .htaccess
   - _pages

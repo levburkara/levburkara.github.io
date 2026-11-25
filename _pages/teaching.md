@@ -1,7 +1,8 @@
 ---
-title: "Visual Design and Engineering Lab - Teaching"
+title: "Teaching | Levent Burak Kara | Carnegie Mellon University"
 layout: textlay
 excerpt: "Teaching"
+description: "Levent Burak Kara's teaching in artificial intelligence, machine learning, numerical methods, computational engineering, and engineering design at Carnegie Mellon."
 sitemap: true
 permalink: /teaching/
 ---
@@ -54,8 +55,6 @@ The links below point to the most recent syllabus or program information for eac
 | [S.T. in Graphics] | 15869 | &nbsp; &nbsp; &nbsp;| [Special Topics in Graphics]({{ site.url }}{{ site.baseurl }}/syllabus/syllabus-15869.pdf)  |
 | [IPD] | 49741 | &nbsp; &nbsp; &nbsp;| [Capstone - Integrated Product Development]({{ site.url }}{{ site.baseurl }}/syllabus/syllabus-49741.pdf)  |
 | [EMS] | 24371 | &nbsp; &nbsp; &nbsp;| [Electro Mechanical Systems]({{ site.url }}{{ site.baseurl }}/syllabus/syllabus-24371.pdf) |
-| |  | &nbsp; &nbsp; &nbsp;|  | 
-| |  | &nbsp; &nbsp; &nbsp;|  | 
 
 <details markdown="1">
 <summary><strong>Complete teaching history</strong></summary>
@@ -107,8 +106,3 @@ The links below point to the most recent syllabus or program information for eac
 | EMS  				|12	| Jr	| Spring 06		| 104	| 
 
 </details>
-
-
-<!-- <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
-</figure>  -->

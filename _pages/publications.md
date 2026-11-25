@@ -2,6 +2,7 @@
 title: "Publications | Levent Burak Kara and the Visual Design and Engineering Lab"
 layout: publicationslay
 excerpt: "Selected and complete publications from the Visual Design and Engineering Laboratory at Carnegie Mellon University."
+description: "Selected and complete publications from Levent Burak Kara and VDEL in engineering design, artificial intelligence, simulation, and manufacturing."
 sitemap: true
 permalink: /publications/
 ---
@@ -44,7 +45,7 @@ Our current work in engineering AI builds on a long-running program in geometric
       <p>We jointly optimized part geometry and manufacturing-process decisions to reduce the total cost of metal additive manufacturing.</p>
       <p><em>Erva Ulu, Runze Huang, Levent Burak Kara, and Kate S. Whitefoot</em></p>
       <p><strong>Journal of Mechanical Design, 2019</strong></p>
-      <p class="publication-links"><a href="http://mechanicaldesign.asmedigitalcollection.asme.org/article.aspx?articleid=2717395">Paper</a> · <a href="https://www.cmu.edu/news/stories/archives/2019/january/lightening-the-load.html">CMU story</a></p>
+      <p class="publication-links"><a href="https://mechanicaldesign.asmedigitalcollection.asme.org/article.aspx?articleid=2717395">Paper</a> · <a href="https://www.cmu.edu/news/stories/archives/2019/january/lightening-the-load.html">CMU story</a></p>
     </div>
   </div>
 </div>

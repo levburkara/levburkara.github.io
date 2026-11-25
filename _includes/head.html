@@ -1,17 +1,40 @@
 <head>
   <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description | strip_newlines | escape }}{% endif %}">
+  {% assign meta_description = page.description | default: page.excerpt | default: site.description %}
+  {% assign meta_title = page.title | default: site.title %}
+  {% assign meta_image = page.image | default: site.social_image | absolute_url %}
+  <meta name="description" content="{{ meta_description | strip_html | strip_newlines | truncate: 160 | escape }}">
   <meta name="author" content="{{ site.author.name | escape }}">
-  <meta name="keywords" content="engineering design, AI, machine learning, optimization, manufacturing, CMU">
   <link rel="stylesheet" href="{{ '/css/main.css' | relative_url }}?v=20261118-news">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
   <link rel="shortcut icon" type="image/x-icon" href="{{ '/images/favicon.ico' | relative_url }}">
-  <meta property="og:title" content="{{ site.title | escape }}">
-  <meta property="og:description" content="{{ site.description | strip_newlines | escape }}">
+  <meta property="og:title" content="{{ meta_title | escape }}">
+  <meta property="og:description" content="{{ meta_description | strip_html | strip_newlines | truncate: 200 | escape }}">
   <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Visual Design and Engineering Lab">
   <meta property="og:url" content="{{ page.url | absolute_url }}">
-  {% if jekyll.environment == 'production' %}{% include analytics.html %}{% endif %}
+  <meta property="og:image" content="{{ meta_image }}">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ meta_title | escape }}">
+  <meta name="twitter:description" content="{{ meta_description | strip_html | strip_newlines | truncate: 200 | escape }}">
+  <meta name="twitter:image" content="{{ meta_image }}">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "ResearchOrganization",
+    "name": "Visual Design and Engineering Laboratory",
+    "alternateName": "VDEL",
+    "url": "{{ site.url }}",
+    "parentOrganization": {"@type": "CollegeOrUniversity", "name": "Carnegie Mellon University", "url": "https://www.cmu.edu"},
+    "founder": {
+      "@type": "Person",
+      "name": "Levent Burak Kara",
+      "jobTitle": "Professor of Mechanical Engineering",
+      "affiliation": "Carnegie Mellon University",
+      "sameAs": ["https://orcid.org/0000-0002-2203-4020", "https://scholar.google.com/citations?user=_X2eOeQAAAAJ&hl=en", "https://www.linkedin.com/in/lkara"]
+    }
+  }
+  </script>
 </head>

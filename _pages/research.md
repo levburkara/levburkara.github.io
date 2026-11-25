@@ -2,6 +2,7 @@
 title: "Research | Levent Burak Kara and the Visual Design and Engineering Lab"
 layout: textlay
 excerpt: "VDEL develops AI, geometric, and physics-based methods for engineering design, simulation, and manufacturing."
+description: "Research at VDEL connects artificial intelligence, geometry, physics, optimization, simulation, and manufacturing to improve engineered systems."
 sitemap: true
 permalink: /research/
 ---
@@ -50,7 +51,7 @@ More recently, we have introduced **generative manufacturing**, a framework in w
 
 - [Procedural Modeling Using Autoencoder Networks](https://doi.org/10.1145/2807442.2807448), ACM UIST, 2015
 - [Lightweight Structure Design Under Force Location Uncertainty](https://dl.acm.org/citation.cfm?id=3073626), ACM SIGGRAPH, 2017
-- [Concurrent Structure and Process Optimization for Minimum-Cost Metal Additive Manufacturing](http://mechanicaldesign.asmedigitalcollection.asme.org/article.aspx?articleid=2717395), *Journal of Mechanical Design*, 2019
+- [Concurrent Structure and Process Optimization for Minimum-Cost Metal Additive Manufacturing](https://mechanicaldesign.asmedigitalcollection.asme.org/article.aspx?articleid=2717395), *Journal of Mechanical Design*, 2019
 - [TopologyGAN: Topology Optimization Using Generative Adversarial Networks Based on Physical Fields](https://doi.org/10.1115/1.4049533), *Journal of Mechanical Design*, 2021
 - [Multi-scale topology optimization using neural networks](https://doi.org/10.1007/s00366-025-02156-6), *Engineering with Computers*, 2025
 - [Generative Manufacturing: A requirements- and resource-driven approach to part making](https://doi.org/10.1016/j.compind.2025.104286), *Computers in Industry*, 2025

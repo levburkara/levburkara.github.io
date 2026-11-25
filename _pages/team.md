@@ -2,6 +2,7 @@
 title: "Team | Levent Burak Kara and the Visual Design and Engineering Lab"
 layout: gridlay
 excerpt: "Faculty, researchers, students, and alumni of the Visual Design and Engineering Laboratory at Carnegie Mellon University."
+description: "Meet the faculty, researchers, students, and alumni of the Visual Design and Engineering Laboratory at Carnegie Mellon University."
 sitemap: true
 permalink: /team/
 ---

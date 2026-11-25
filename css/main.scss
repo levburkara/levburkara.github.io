@@ -258,6 +258,36 @@ a:focus {
   background: #fff;
 }
 
+/* Keyboard accessibility */
+
+.skip-link {
+  position: fixed;
+  left: 12px;
+  top: -60px;
+  z-index: 2000;
+  padding: 10px 14px;
+  color: #fff;
+  background: #111;
+  border-radius: 3px;
+}
+
+.skip-link:focus {
+  top: 12px;
+  color: #fff;
+}
+
+/* Locally generated complete bibliography */
+
+.complete-publications h3 {
+  margin-top: 32px;
+  padding-bottom: 6px;
+  border-bottom: 1px solid #ddd;
+}
+
+.complete-publications li {
+  margin-bottom: 12px;
+}
+
 .selected-publication h3 {
   margin-top: 4px;
   font-size: 20px;

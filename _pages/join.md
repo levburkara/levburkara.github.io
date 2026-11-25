@@ -2,6 +2,7 @@
 title: "Join VDEL | Visual Design and Engineering Lab"
 layout: textlay
 excerpt: "Information for prospective Ph.D., M.S., and undergraduate researchers interested in joining VDEL at Carnegie Mellon University."
+description: "Information for prospective Ph.D., master's, and undergraduate researchers interested in joining VDEL at Carnegie Mellon University."
 sitemap: true
 permalink: /join/
 ---
